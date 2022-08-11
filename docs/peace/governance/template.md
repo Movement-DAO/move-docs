@@ -5,7 +5,7 @@ sidebar_position: 3
 
 ---
 
-*Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it. <a href='/downloads/template.md' download>Download here.</a>*
+*Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it. <a target="\_blank" href='/downloads/template.md' download>Download here.</a>*
 
 ---
 
