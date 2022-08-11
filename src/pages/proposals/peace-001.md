@@ -31,9 +31,9 @@ Ratifying the Guiding Principles will establish an Unincorporated Nonprofit Asso
 - Clarify the ways Peace DAO can use intellectual property.
 
 The Terms of Service will clarify:
-- The ways in which individuals can interact with Peace DAO's online resources legally.
+- The ways in which individuals can interact with Peace DAO's online resources.
 - Peace DAO's privacy policy.
-- Peace DAO's governing laws and arbitration, and indemnify the DAO and its members.
+- Peace DAO's governing laws and arbitration rules.
 - Risks associated with Peace DAO's online resources.
 
 ## Risks
