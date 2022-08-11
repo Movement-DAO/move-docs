@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Move Docs',
   tagline: 'Run your Movement.',
-  url: 'docs.move.xyz',
+  url: 'https://docs.move.xyz',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
