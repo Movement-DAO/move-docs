@@ -10,7 +10,7 @@ const config = {
   tagline: 'Run your Movement.',
   url: 'docs.move.xyz',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-move.png',
 
@@ -32,12 +32,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/',
+          editUrl: 'https://github.com/Movement-DAO/move-docs/blob/main',
         },
         blog: {
           showReadingTime: true,
           routeBasePath: '/updates/',
-          editUrl: 'https://github.com/',
+          editUrl: 'https://github.com/Movement-DAO/move-docs/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
