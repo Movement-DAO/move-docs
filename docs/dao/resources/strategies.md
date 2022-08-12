@@ -7,11 +7,44 @@ sidebar_position: 3
 
 The [primary space](https://snapshot.org/#/movedao.eth) does not utilize any strategies, and does not host any voting.
 
+## Temperature Check Space
+
+### ERC-721
+
+The [Temperature Check space](https://snapshot.org/#/tempcheck.movedao.eth/) employs an `erc721` strategy with the following parameters:
+
+```json
+{
+  "address": "0xdd407a053fa45172079916431d06E8e07f655042",
+  "symbol": "MAPE"
+}
+```
+
+### Delegation
+
+The [Temperature Check space](https://snapshot.org/#/tempcheck.movedao.eth/) employs a `delegation` strategy with the following parameters:
+
+```json
+{
+  "symbol": "MAPE (delegated)",
+  "delegationSpace": "tempcheck.movedao.eth",
+  "strategies": [
+    {
+      "name": "erc721",
+      "params": {
+        "address": "0xdd407a053fa45172079916431d06E8e07f655042",
+        "symbol": "MAPE"
+      }
+    }
+  ]
+}
+```
+
 ## Consensus Space
 
 ### Weighted Whitelist
 
-The [Consensus space](https://snapshot.org/#/tempcheck.movedao.eth) deploys a `whitelist-weighted` strategy with the following parameters:
+The [Consensus space](https://snapshot.org/#/tempcheck.movedao.eth) employs a `whitelist-weighted` strategy with the following parameters:
 
 ```json
 {
