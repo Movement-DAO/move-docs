@@ -2,7 +2,7 @@
 
 ```
 Author: filipv
-Date: 2022-08-11
+Date: 2022-08-12
 ```
 
 ## Thesis
@@ -17,7 +17,7 @@ Establishing a clear governance process will provide utility to the Token and th
 
 ## Specification
 
-Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/multisig) *([IPFS Mirror](https://gateway.pinata.cloud/ipfs/QmSYd5ZpWA8pzp2fUmvAkvDc9u4TB3LwVpNBhzJk437A4B))*.
+Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/multisig) *([IPFS Mirror](https://gateway.pinata.cloud/ipfs/QmNTShzDjbTy73G1a49D61ekhsAFnM1SFkBDaj3SC7LqLo))*.
 
 Update Peace DAO's [Snapshot](https://snapshot.org/#/peace.movedao.eth), [Discord server](https://discord.gg/movexyz), and other relevant resources to reflect these changes.
 
