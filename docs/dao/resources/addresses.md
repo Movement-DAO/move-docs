@@ -3,7 +3,9 @@ title: Contract Addresses
 sidebar_position: 1
 ---
 
-- Movement DAO's Gnosis Multi-Signature Safe: [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) *([Gnosis Safe](https://gnosis-safe.io/app/eth:0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6/balances))*
+- Movement DAO's Gnosis Safe: [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)
+- Developer Gnosis Safe: [`0x2187e6a7c765777d50213346f0fe519fca706fbd`](https://etherscan.io/address/0x2187e6a7c765777d50213346f0fe519fca706fbd)
+- Peace DAO Gnosis Safe: [`0xD2427c0e44D28Ea74c0504E072c6073d135569B2`](https://etherscan.io/address/0xD2427c0e44D28Ea74c0504E072c6073d135569B2)
 - Movement DAO's Ascended Ape Collection: [`0xdd407a053fa45172079916431d06E8e07f655042`](https://etherscan.io/token/0xdd407a053fa45172079916431d06e8e07f655042)
 
 Movement DAO's token will be launched when its platform is launched.
