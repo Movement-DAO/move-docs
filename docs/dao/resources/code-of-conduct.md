@@ -20,16 +20,18 @@ Every Member must act and interact in ways that contribute to an open, welcoming
 ## Community Standards
 
 **Examples of behavior that contributes to a positive environment for our community include:**
-- Honesty.
-- Prioritizing education.
-- Demonstrating empathy and kindness.
-- Being respectful.
-- Giving and accepting feedback.
-- Accepting responsibility. Owning mistakes, and learning from them.
-- Focusing on what is best for the community.
-- Executing and signing transactions on behalf of and at the discretion of the Community.
+
+-   Honesty.
+-   Education is a priority; Learn by doing.
+-   Demonstrating empathy and kindness.
+-   Being respectful.
+-   Giving and accepting feedback.
+-   Accepting responsibility. Owning mistakes, and learning from them.
+-   Focusing on what is best for the community.
+-   Executing and signing transactions on behalf of and at the discretion of the Community.
 
 **Examples of unacceptable behavior include:**
+
 -   The use of sexualized language or imagery, and sexual attention or advances of any kind.
 -   Trolling, insults, derogatory comments, and personal or political attacks.
 -   Harassment.
