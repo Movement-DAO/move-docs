@@ -21,7 +21,7 @@ Once a proposal is finalized, the author can create a **3 day temperature check*
 
 A **4 day Snapshot vote** will be created for proposals which receive at least 6 affirmative temperature check votes. Each Snapshot proposal must include the full proposal text or a link to an immutable version of the full proposal text. Proposals must be announced in the DAO's Discord before voting opens.
 
-[Peace DAO's Snapshot Space](https://snapshot.org/#/peace.movedao.eth) will grant 1 vote per [Peace Token](https://juicebox.money/p/peace) and 1,000 votes per [Peace DAO Movement NFT](https://etherscan.io/token/0x1c43e7fb2885d9ff4403521eae41d7943f7f51ee). 
+[Peace DAO's Snapshot Space](https://snapshot.org/#/peace.movedao.eth) will grant 1 vote per [Peace Token](https://juicebox.money/p/peace) and 200,000 votes per [Peace DAO Movement NFT](https://etherscan.io/token/0x1c43e7fb2885d9ff4403521eae41d7943f7f51ee). 
 
 ## Step 3 - Execution
 
