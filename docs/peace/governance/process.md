@@ -7,7 +7,7 @@ Peace DAO is governed by its community, as expressed through [Peace Token](https
 
 ## Step 0 - Discussion
 
-Authors can submit proposals at any time by creating a discussion thread in the `#✍️｜proposals` channel of the [Peace DAO Discord](https://discord.gg/movexyz). See [How to Create a Proposal](proposals) for best practices.
+Authors can submit proposals at any time by creating a discussion thread in the `#✍️｜proposals` channel of the [Peace DAO Discord](https://discord.gg/movexyz).
 
 :::tip
 You can use the [proposal template](template) as a starting point. When writing your proposal, try to be as detailed as possible in your specification. Only include what is necessary—short, specific proposals are best.
