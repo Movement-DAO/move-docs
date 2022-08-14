@@ -13,5 +13,4 @@ Peace DAO's Mainnet Ethereum Token: [`0xdE43304bD02E5517a1B646179eb9612b5d58E6A1
 
 *See the [Juicebox Docs](https://info.juicebox.money) for [Juicebox v1](https://info.juicebox.money/dev/protocol-v1/resources/contract-addresses) and [Juicebox v2](https://info.juicebox.money/dev/resources/addresses) contract addresses.*
 
-
 [^1]: To reduce gas fees, newly issued $PEACE tokens are stored in the Juicebox TicketBooth contract. The ERC-20 contract above reflects the total supply of claimed ERC-20 $PEACE tokens. To ascertain the total supply of claimed (ERC-20) and unclaimed $PEACE tokens, call the totalSupplyOf() function on the TicketBooth contract deployed to [`0xee2eBCcB7CDb34a8A822b589F9E8427C24351bfc`](https://etherscan.io/address/0xee2eBCcB7CDb34a8A822b589F9E8427C24351bfc), passing the desired Ethereum address and the project ID **528** (hex encoded as 210) as arguments.

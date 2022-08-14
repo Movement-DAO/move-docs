@@ -27,7 +27,7 @@ sidebar_position: 1
 
 **"DAO"** means Decentralized Autonomous Organization. "DAO" or "The DAO" may refer to Peace DAO, a Delaware Unincorporated Nonprofit Association.
 
-**"DAO Expenses"** refers to costs and expenses related to the activities, maintenance and operation of the DAO. [*See Section 7(b)(i) of The Agreement.*](#7-fees-and-expenses).
+**"DAO Expenses"** refers to costs and expenses related to the activities, maintenance and operation of the DAO. [_See Section 7(b)(i) of The Agreement._](#7-fees-and-expenses).
 
 **"Dapp"** refers to online portals or other interactive software used by the DAO, individuals, and any other entities to create, manage, contribute to, or otherwise interact with Juicebox Treasuries or to interact with the Juicebox Protocol. Governance activities which are performed within the DAO's Snapshot Spaces on Snapshot.org or other Snapshot servers are also considered to be Dapp activities.
 
@@ -89,9 +89,9 @@ sidebar_position: 1
 
 ### Introduction.
 
-These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of PeaceDAO (hereinafter "PeaceDAO", "DAO" or "☮️DAO"), an unincorporated nonprofit association organized under the laws of the State of Delaware.
+These guiding principles constitute an Agreement (hereinafter the **"Agreement"**) and are entered into by and amongst members of PeaceDAO (hereinafter **"PeaceDAO"**, **"DAO"** or **"☮️DAO"**), an unincorporated nonprofit association organized under the laws of the State of Delaware.
 
-The following terms apply when you click to view or access DAO's Dapp or DAO's online services (including https://peace.move.xyz), donate or transfer cryptocurrencies such as Ethereum, or transfer one or more ERC-20 ("Tokens") or ERC-721 ("NFTs") or other digital assets (collectively, "Cryptographic currencies") to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for the DAO, interact with or access [the DAO's smart contracts](addresses) in any way, provide services to the DAO, donate or transfer any property to the DAO, or otherwise interact with or access the DAO's services through the Dapp. The DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
+The following terms apply when you click to view or access DAO's Dapp or DAO's online services (including https://peace.move.xyz) (collectively, **"the DAO Services"** or **"Services"**), donate or transfer cryptocurrencies such as Ethereum, or transfer one or more ERC-20 (**"Tokens"**) or ERC-721 (**"NFTs"**) or other digital assets (collectively, **"Cryptographic currencies"**) to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for the DAO, interact with or access [the DAO's smart contracts](addresses) in any way, provide services to the DAO, donate or transfer any property to the DAO, or otherwise interact with or access the DAO's current or future services. The DAO's governance is currently hosted on [Peace DAO's Snapshot Space](https://snapshot.org/#/peace.movedao.eth), however for the purpose of this agreement we refer to this as part of the DAO Service.
 
 **By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use the DAO Dapp or online services.**
 
@@ -99,23 +99,23 @@ Capitalized terms used herein have the meanings ascribed to them in the [Definit
 
 ### 1. Organization.
 
-**(a) Formation.** The DAO was formed on March 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916 inclusive (the "Act"), and this Agreement.
+**(a) Formation.** The DAO was formed on March 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916 inclusive (the **"Act"**), and this Agreement.
 
-**(b) Purpose.** Peace DAO's purpose is to fund life-saving assistance and support for refugees of war and internally displaced people. 
+**(b) Purpose.** Peace DAO's purpose is to fund life-saving assistance and support for refugees of war and internally displaced people.
 
 The DAO is an unincorporated association of individuals, corporations, statutory trusts, business trusts, estates, trusts, partnerships, limited liability companies, associations, joint ventures, and other legal or commercial entities, many of whom, if not all of whom, agree to join together for a common, nonprofit purpose. For the DAO, that purpose is encapsulated in its mission statement.
 
-The DAO is not intended to be or become an entity required to register as an “investment company” as defined in Section 3(a)(1)(A) of the Investment Company Act of 1940, as amended.
+**The DAO is not intended to be or become an entity required to register as an “investment company” as defined in Section 3(a)(1)(A) of the Investment Company Act of 1940, as amended.**
 
-*See the [Peace DAO Intro](/peace).*
+_See the [Peace DAO Intro](/peace)._
 
 ### 2. Membership; Governance Rights and Tokens; Limitations.
 
 **(a) Governance Rights.** Governance Rights in the DAO are represented by Project Tokens, with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time. Member's Governance Rights are subject to [DAO Governance](/peace/governance/process).
 
-**(b) Tokens.** As of the date hereof, there shall be an allowance of up to the max of an unsigned integer 2<sup>256-1</sup>[^1], tokens authorized to represent membership interests in the DAO, unless otherwise agreed to and by the Members via a vote occurring through the Dapp. Membership in the DAO, as defined bey Del. Code Ann. Tit. 6, § 1901, shall be voluntary and open to any individual whose purpose or presumed intent is to contribute to the DAO and is willing to accept responsibilities and terms of membership. The DAO shall grant the initial Member's governance voting tokens proportional to contributions to the Gnosis multi-signature wallet[^2].
+**(b) Tokens.** As of the date hereof, there shall be an allowance of up to the max number of an unsigned integer or 2<sup>256-1</sup>[^1], tokens authorized to represent membership interests in the DAO, unless otherwise agreed to and by the Members via a vote occurring through the Dapp. Membership in the DAO, as defined bey Del. Code Ann. Tit. 6, § 1901, shall be voluntary and open to any individual whose purpose or presumed intent is to contribute to the DAO and is willing to accept responsibilities and terms of membership. The DAO shall grant the initial Member's governance voting tokens proportional to total contributions to the [Juicebox Treasury](), which in turn governs the Gnosis multi-signature wallet[^2].
 
-Notwithstanding the foregoing or any other provision of this Agreement, the DAO may provide initial members Tokens for their role in conceiving and supporting the DAO. 
+Notwithstanding the foregoing or any other provision of this Agreement, the DAO may provide initial members Tokens for their role in conceiving and supporting the DAO.
 
 **(c) Limitation to the DAO Protocol Configuration.** The DAO shall not configure its Juicebox Treasury with an undefined Reserved Rate, a Reserved Rate of 0%, a Redemption Rate of 100%, or a Discount Rate other than 0%. Within reason, the DAO shall not configure its Juicebox Treasury with any parameters that would cause the capital value of Token Redemptions via the Redemption Rate to exceed the cost basis required to issue those Tokens from the DAO's Juicebox Treasury.
 
@@ -190,6 +190,7 @@ All of the DAO's governing Members shall have their membership determined upon r
 **(a) Organizational Expenses.** The DAO shall bear all of its organizational expenses and costs, and may amortize these expenses for accounting and/or tax purposes.
 
 **(b) Operating Expenses.**
+
 > **(i)** The DAO shall bear all costs and expenses relating to its activities, maintenance, and operations, including, without limitation, all fees, expenses, and costs associated (directly or indirectly) with the acquiring, holding, monitoring, and commissioning of artwork, identifying DAO opportunities to fulfil its purpose and any extraordinary expenses (including, without limitation, litigation-related and indemnification expenses), legal, regulatory, research, consulting, compliance, auditing, accounting, and other professional fees and expenses, the costs of any administrator, the costs of any reporting to Members, expenses of any administrative proceedings undertaken by the applicable Member in its capacity, expenses incurred in connection with the dissolution, liquidation, and termination of the DAO, and other expenses related to the DAO as determined by the Members by a vote via the Dapp (collectively, and together with organizational expenses, the "DAO Expenses").
 >
 > **(ii)** DAO Expenses shall be allocated to and funded by the DAO.
@@ -203,6 +204,7 @@ All of the DAO's governing Members shall have their membership determined upon r
 ### 9. Dissolution.
 
 **(a) General.** The DAO shall be dissolved and its affairs shall be wound up upon the earliest to occur of:
+
 > **(i)** a determination of the Members by Majority Vote; or
 >
 > **(ii)** the entry of a decree of judicial dissolution pursuant to the Act.
@@ -214,13 +216,14 @@ All of the DAO's governing Members shall have their membership determined upon r
 **(a) Transfers.** Governance Rights and Tokens are not transferable, except to other members. Members may vote to allow or disallow the ability of Members to transfer their Governance Rights and/or Tokens by a vote facilitated via the Dapp. Tokens may become freely transferable to Ethereum addresses outside of the DAO ("External Addresses") by a vote of the Members. In the event the Tokens become freely transferable to External Addresses, you agree that holders of the External Address shall automatically be granted Membership rights, subject to this Agreement.
 
 **(b) Admission of Substituted Members.** If the transferee is not already a Member, any transferee of Tokens transferred in accordance with the provisions of this Section shall be admitted as a Member. The DAO shall not recognize for any purpose any purported transfer of all or any part of a Member's interest or Tokens in the DAO, and no purchaser, assignee, transferee, or other recipient of all or any part of such Tokens shall become a Member hereunder unless:
+
 > **(i)** The transferee of Tokens transferred pursuant to this Section that is admitted to the DAO as a transferee Member shall succeed to the rights and liabilities of the transferor Member with respect to such transferred Tokens.
 >
 > **(ii)** Effect of Death, Dissolution, or Bankruptcy. Upon the death, incompetence, bankruptcy, insolvency, liquidation, or dissolution of a Member, the rights and obligations of that Member under this Agreement shall accrue to that Member's successor(s), estate, or legal representative, and each such Person shall be treated as an unadmitted transferee of that Member's Tokens, as described in the Act.
 
 ### 11. Books and Records; Accounting and Tax Matters.
 
-The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain. 
+The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain.
 
 ### 12. Waiver of Fiduciary Duties.
 
