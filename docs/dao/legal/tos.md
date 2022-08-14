@@ -6,5 +6,5 @@ sidebar_position: 2
 import {Redirect} from '@docusaurus/router';
 
 const Home = () => {
-  return <Redirect to="/tos" />;
+return <Redirect to="/tos" />;
 };

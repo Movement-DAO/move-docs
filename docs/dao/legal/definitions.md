@@ -3,9 +3,13 @@ title: Definitions
 sidebar_position: 3
 ---
 
-**"Account Address"** refers to a public key address on the Designated Blockchain Network that is uniquely associated with a single private key, and at which no smart contract has been deployed.
+**"51% attack"** A type of attack on a decentralized network where a group gains control of the majority of nodes. This would allow them to defraud the blockchain by reversing transactions and double spending ether and other tokens.
+
+**"Account"** An object containing an address, balance, nonce, and optional storage and code. An account can be a contract account or an externally owned account (EOA).
 
 **"Act" or "The Act"** refers to the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916 inclusive.
+
+**"Address"** Most generally, this represents an EOA or contract that can receive (destination address) or send (source address) transactions on the blockchain. More specifically, it is the rightmost 160 bits of a Keccak hash of an ECDSA public key.
 
 **"Affiliate"** means, with respect to any Person, any other Person controlling, controlled by, or under common control with such Person; in such context, "control" means the possession, directly or indirectly, of the power to direct the management or policies of another, whether through the ownership of voting securities, by contract, or otherwise.
 
@@ -14,6 +18,8 @@ sidebar_position: 3
 **"Allow Minting Tokens", "Allow Changing Tokens", "Allow Setting Terminals", "Allow Setting the Controller", "Allow Terminal Migrations", and "Allow Controller Migration"** each refer to different Juicebox protocol functions which Juicebox Projects can enable or disable each Funding Cycle. By default, these functions are disabled.
 
 **"Amendments"** conveys that any provision of this Charter may be amended, waived or modified only upon a vote in favor of such amendment, waiver or modification by the DAO Members through the Designated Smart Contract.
+
+**"Application binary interface (abi)"** The standard way to interact with contracts in the Ethereum ecosystem, both from outside the blockchain and for contract-to-contract interactions.
 
 **"Audit"** refers to a testing process for potential security improvements or other improvements to a new token, project, product, or offering, or for potential improvements to an existing token, project, product, or offering. Testing networks ("Testnets" or "Test nets") can be used to test the viability and vulnerability of new ideas, concepts, code, and processes before those ideas, concepts, code, or processes are deployed to other networks.
 
@@ -61,13 +67,25 @@ sidebar_position: 3
 
 **"Established Practices"** refers to the practices used by an unincorporated nonprofit association without material change during the most recent five years of its existence, or if it has existed for less than five years, during its entire existence.
 
+**"Externally owned accounts (EOAs)"** Externally owned accounts (EOAs) are accounts that are controlled by users who control the private keys for an account, typically generated using a seed phrase. Externally owned accounts are accounts without any code associated with them. Typically these accounts are used with a wallet.
+
+**"Fraud proof"** A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security. Some rollups use validity proofs.
+
 **"Funding Cycle Duration"** How long each funding cycle lasts (specified in seconds). All funding cycle properties are unchangeable while the cycle is in progress. In other words, any proposed reconfigurations can only take effect during the subsequent cycle. If no reconfigurations were submitted by the project owner, or if proposed changes fail the current cycle's Ballot, a copy of the latest funding cycle will automatically start once the current one ends. A cycle with no duration lasts indefinitely, and reconfigurations can start a new funding cycle with the proposed changes right away.
 
 **"Funding Cycle" and "Cycle"** refer to the time-locked rules according to which a Juicebox Project wishes to operate. Funding Cycles are typically represented as a [`JBFundingCycle`](https://info.juicebox.money/dev/api/data-structures/jbfundingcycle) data structure, and are usually managed by the [`JBFundingCycleStore`](https://info.juicebox.money/dev/api/contracts/jbfundingcyclestore/) contract. Funding Cycle duration can be specified in seconds ("Funding Cycle Duration"). Funding Cycle properties are unchangeable while the cycle is in progress. In other words, any proposed reconfigurations can only take effect during the subsequent cycle. If no reconfigurations were submitted by the Project Owner, or if proposed changes fail the current cycle's Ballot, a copy of the latest Funding Cycle will automatically start once the current one ends. A Funding Cycle with no duration lasts indefinitely; valid reconfigurations to Funding Cycles with no duration immediately start a new Funding Cycle with the proposed changes once approved by a Reconfiguration Ballot if necessary.
 
+**"Gas"** A virtual fuel used in Ethereum to execute smart contracts. The EVM uses an accounting mechanism to measure the consumption of gas and limit the consumption of computing resources (see Turing complete).
+
 **"Governing Principles"** refers to the agreements, whether oral, in a record, or implied from established practices, or in any combination thereof, which govern the purpose or operation of an unincorporated nonprofit association and the rights and obligations of its members and managers. The term includes any amendment or restatement of the agreements constituting the governing principles.
 
 **"Governance Rights"** means the entire interest of a Member in the DAO, as measured by a Member's Tokens, including, without limitation, all rights and obligations contemplated or agreed to under this Agreement, and any right to vote on, consent to, or otherwise participate in any decision or action of or by the Members granted by this Agreement or the Act. Member's Governance Rights are subject to [DAO Governance](/dao/governance/process).
+
+**"Gnosis Safe"** refers to the Gnosis Safe Multisig Wallet, a smart contract which allows multiple Ethereum addresses to manage a single Ethereum address. The Gnosis Safe is used to manage the DAO's treasury.
+
+**"Gwei"** Short for gigawei, a denomination of ether, commonly utilized to price gas. 1 gwei = 109 wei. 109 gwei = 1 ether.
+
+**"HD wallet seed"** A value used to generate the master private key and master chain code for an HD wallet. The wallet seed can be represented by mnemonic words, making it easier for humans to copy, back up, and restore private keys.
 
 **"Hold Fees"** refers to the fee holding process: by default, Protocol Fees are paid automatically when funds are distributed from a Juicebox Treasury to an Ethereum address. During Funding Cycles configured to hold fees, this fee amount is set aside instead of being immediately processed. Projects can reclaim their held fees by adding funds to their Treasury equal to the amount of funds distributed to Ethereum addresses while fees were being held. Otherwise, Juicebox DAO or the project can process these held fees at any point to issue Juicebox Governance Token ("JBX") at the current rate. This allows a project to withdraw funds and later add them back into their the DAO treasury without incurring fees. This applies to both Distributions from the Distribution Limit and from the Overflow Allowance.
 
@@ -96,6 +114,8 @@ sidebar_position: 3
 > **(v)** the Designated Smart Contract, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits the Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute.
 
 **"Member"** means each Person entering into this Agreement as a member or subsequently admitted as a member pursuant to the terms of this Agreement, but does not include any Person that has ceased to be a Member of the DAO. If at any time there is only one Member, then all references to "Members" shall be deemed to mean "Member."
+
+**"Multi-Signature Wallet"**
 
 **"Non-Fungible Tokens", "NFT", or "NFTs"** means a cryptographic token based on the Ethereum ERC-721 standard, the ERC-1155 standard, or a similar standard or other blockchain-based asset.
 
@@ -139,6 +159,8 @@ sidebar_position: 3
 > (b) to attach to or logically associate with the record an electronic symbol, sound, or process.
 
 **"Smart Contract"** refers to computer programs stored on the Ethereum blockchain or other blockchains.
+
+**"Smart multisignature escrow"** Bitcoin allows multisignature transaction contracts where, for example, three out of a given five keys can spend the funds. Ethereum allows for more granularity; for example, four out of five can spend everything, three out of five can spend up to 10% per day, and two out of five can spend up to 0.5% per day. Additionally, Ethereum multisig is asynchronous - two parties can register their signatures on the blockchain at different times and the last signature will automatically send the transaction.
 
 **"Start Timestamp"** refers to the time at which the funding cycle is considered active. Projects can configure the start time of their first funding cycle to be in the future and can ensure reconfigurations don't take effect before a specified time. Once a funding cycle ends, a new one automatically starts right away. If there's an approved reconfiguration queued to start at this time, it will be used. Otherwise, a copy of the current funding cycle will be used.
 

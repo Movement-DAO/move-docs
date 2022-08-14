@@ -1,0 +1,73 @@
+---
+title: Genesis
+sidebar_position: 2
+---
+
+## Background
+
+In December of 2021, through the DAO's service provider, the [dao-lawfirm.eth's](../legal/guiding-principles.md), individuals collectively expressed interest in creating an experiment.
+
+The thesis:
+
+> -   Could a new type of application framework, relying on smart contracts for organizational governance and accounting, operate in a completely decentralized way?
+> -   Could decentralized applications and smart contracts facilitate greater change than traditional tools when addressing the needs of individuals and scaling to millions of communities?
+
+As of August 14, 2022, under 100 [unique externally owned addresses](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6).[^1] The dao-lawfirm.eth, together with an appointed handful of individuals ("starter signers"), established the following guidelines:
+
+The DAO shall bootstrap a community of contributors, recruit developers, scope and develop expertise and tooling to build a framework for building and maintaining communities.
+
+1. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2];
+2. value the privacy and work product of its members;
+3. recommend a structure to ensure compliance to applicable laws and regulations;
+4. accounting and governance must be implemented prior to consistent access to capital; and,
+5. no [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) regarding any governance process.
+
+In order to achieve these wishes, the following steps were taken:
+
+1. dao-lawfirm.eth created trusts and the Gnosis Safes to fund the multisig account;
+2. multisig signers were appointed and funds were secured to support the DAO until sufficient tooling could be deployed; and,
+3. proposals for payouts to individuals were limited to 3 months periods.
+
+Initially, the multisig threshold was set to **3 of 5 signers,** and the following signers were appointed:
+
+| ID  | Ethereum Address                                                                                                        |  Contribution  | Creation Date | Created By      |
+| :-: | :---------------------------------------------------------------------------------------------------------------------- | :------------: | ------------- | --------------- |
+| 1.  | [`0x752515a3A1091b9f1c04416CF79D1F14d2340085`](https://etherscan.io/address/0x752515a3a1091b9f1c04416cf79d1f14d2340085) | $10,249,206.01 | 2021-11-20    | dao-lawfirm.eth |
+| 2.  | [`0x468f178672C86bFA02e5E1B0413C3ccf55A37409`](https://etherscan.io/address/0x468f178672C86bFA02e5E1B0413C3ccf55A37409) |                | 2021-12-17    | dao-lawfirm.eth |
+| 3.  | [`0x550bD0F03580B9a687931af4d837F8e45D61d410`](https://etherscan.io/address/0x550bD0F03580B9a687931af4d837F8e45D61d410) |                | 2021-12-17    | dao-lawfirm.eth |
+| 4.  | [`0x746cf650d4E5431474E8D4E2d5B6Bbe53772b498`](https://etherscan.io/address/0x746cf650d4E5431474E8D4E2d5B6Bbe53772b498) |                | 2021-12-17    | dao-lawfirm.eth |
+| 5.  | [`0xDbE76F6ae97dFD5bdd1D7DAD8972740d18aB2b57`](https://etherscan.io/address/0xDbE76F6ae97dFD5bdd1D7DAD8972740d18aB2b57) |                | 2021-12-17    | dao-lawfirm.eth |
+
+Future multisig reconfigurations are subject to the DAO governance process.
+
+## Additional Considerations
+
+### Governance NFT
+
+As an invitation to the top 1,500 active decentralized governance pioneers, Juicebox.money and Tribute DAO communities, a governance [NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8e07f655042) was air dropped and Twitter postings detailed the purpose. Additionally, individuals who participated consistently in the DAO's Discord, drafted proposals, and engaged in the community were given a governance nfts at no cost.[^2] The nft was a derivative of the [Bored Ape No. 1420.](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420).[^3]
+
+### Treasury Oversight
+
+As of August 2022, the DAO's [Gnosis Safe](/peace/governance/multisig) had not yet invested in any significant asset diversification strategies. The DAO should appoint a treasury committee where individuals with prior experience managing at least $1,000,000 worth of cryptocurrency over an extended length of time can make written recommendations to the DAO. Community/contributor recommendations endorsed by committee members should also be considered. The prior experience managing cryptocurrencies includes current multisig wallets.
+
+_See [Governance MIP-001](https://snapshot.org/#/movedao.eth/proposal/0x5494278f1f52faed8f2a0d61f0909d81d92364fa871a2b9183a61ce179bc7671) ([IPFS](https://snapshot.mypinata.cloud/ipfs/QmRDyENgBHSDNr3YuoGhS3yvnyzNfumtxoKm39h8NsD9Jn))._
+
+### Initial Signer Requests
+
+The initial signers, through dao-lawfirm.eth, have made specific feature requests for the initial application:
+
+-   multi-token treasuries;
+-   bonding curve token emissions;
+-   integration with DeFi protocols;
+-   voting escrow voting strategies;
+-   nft tooling for creators;
+-   on-chain governance;
+-   legal compliance; and,
+-   expanding the multisig;
+
+Governance migration to voting escrow is essential, as the initial contributors seek to signal their long-term commitments. The initial signers provided 60 days during which to present a timeline for the DAO tooling version 1.0 release.
+
+[^1]: June 15 through 30, 2022, about $450,000 DAI was swapped for ETH and has appreciated. This was included in the overview of the treasury balance.
+[^2]: The slow-start "veto" was inspired by [nouns.wtf](https://nouns.wtf), see section "Governance".
+[^3]: [Movement DAO's Ascended Ape Collection](https://opensea.io/collection/movement-daos-ascended-ape-collection), as of August 10, 2022, there were 1.1k owners. All of the original Gnosis contributors were airdropped NFTs, the DAO's governance proposal and temperature-check's Snapshot voting strategy relies exclusively on the NFT while the proposal ratification strategy is a weighted whitelist based on contributions to the Gnosis. This enables virtually anyone with interest to submit a proposal and participate in the DAO.
+[^4]: [Bored Ape Yacht Club](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420) was purchased for [$295,757.76 or 96 ETH](https://etherscan.io/tx/0xf8408567c7f64549a3f141e78fe67f9e9a061e525ca87b8069f1ac0eb0ab7053), illustrator and artist [natasha-pankina.eth](https://natasha-pankina.com/) was commissioned to create the new collection incorporating themes of possible communities, diverse ape characteristics among other traits. The governance NFTs were minted and distributed at no cost to the DAO's invited governance contributors, a conservative estimate on the gas fees alone are north of $75,000.00.
