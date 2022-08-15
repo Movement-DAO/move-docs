@@ -15,14 +15,14 @@ In the event of a breach of the Code of Conduct, or a breach of any applicable t
 
 Views, statements and opinions expressed by a DAO Member do not necessarily reflect the opinions of the DAO Association or any of its affiliated entities, and shall be considered individual and personal statements of the selected candidate. The DAO shall not in any case be held responsible for any views, statements or opinions of any kind expressed by the DAO Member.
 
-Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive community. By their participation in the community, every Member agrees to make our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behaviour contrary to this spirit of tolerance is unacceptable, and those acting contrary will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
+Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive community. By their participation in the community, every Member agrees to make our community a harassment-free experience for everyone regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behaviour contrary to this spirit of tolerance is unacceptable, and those acting in such a way will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
 
 ## Community Standards
 
 **Examples of behavior that contributes to a positive environment for our community include:**
 
 -   Honesty.
--   Education is a priority; Learn by doing.
+-   Prioritizing education; learning by doing.
 -   Demonstrating empathy and kindness.
 -   Being respectful.
 -   Giving and accepting feedback.
@@ -52,27 +52,27 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 ### 2. Warning
 
-**Transgression:** A violation through a single incident or series of actions.
+**Transgression:** A violation of the DAO's Code of Conduct, either through a single incident or a series of actions.
 
-**Consequence:** A warning with consequences for continued inappropriate behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes interactions in community spaces as well as external channels like Telegram, Discord, Reddit, Community Forum, etc. Violating these terms may lead to a temporary or permanent ban.
+**Consequence:** A warning with consequences for continued inappropriate behavior. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct), for a specified period of time. This includes interactions in community spaces, as well as interactions through external channels like Telegram, Discord, Reddit, a Community Forum, or another platform. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 
 **Transgression:** A serious violation of community standards, including sustained inappropriate behavior.
 
-**Consequence:** A temporary ban from any sort of interaction or public communication with the Community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+**Consequence:** A temporary ban from any sort of interaction or public communication with the Community for a specified period of time. No public or private interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
 **Transgression:** Demonstrating a pattern of violating community standards, including sustained inappropriate behavior, harassment, aggression, or disparagement towards individuals or classes of individuals.
 
-**Consequence:** Permanent removal from any sort of interaction or public communication with the Community for an indefinite period of time. If an individual has alternate accounts those may be removed as well. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct.
+**Consequence:** Permanent removal from any sort of interaction or public communication with the Community for an indefinite period of time. If an individual has alternate accounts, those may be removed as well. No public or private interaction with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) shall take place during this period.
 
 ### 5. Compulsory Withdrawal
 
-**Transgression:** A violation of the DAO's Code of Conduct, or a violation of the DAO's Community Impact and Enforcement Guidelines, or Section Withdrawal Rights; Compulsory Withdrawal; Non-Disparagement. Guiding Principals § 6(d) resulting in a permanent ban.
+**Transgression:** A violation of the DAO's Code of Conduct, the DAO's Community Impact and Enforcement Guidelines, or the [DAO's Guiding Principals § 6(d)](/dao/legal/guiding-principles#6-withdrawal-rights-compulsory-withdrawal-non-disparagement): *Withdrawal Rights; Compulsory Withdrawal; Non-Disparagement* shall result in a permanent ban.
 
-**Consequence:** The DAO Member is removed from the Dapp, and prevented from any and all privileges granted to Members. Referral to the DAO's service provider to initiate Guiding Principal's Compulsory Withdrawal § 6(b) proceedings.
+**Consequence:** The DAO Member shall be removed from the Dapp and prevented from any and all privileges granted to Members. Referral to the DAO's service provider to initiate the Guiding Principal's Compulsory Withdrawal § 6(b) proceedings.
 
 ## Other
 
@@ -82,7 +82,7 @@ Notwithstanding the above community standards and enforcement guidelines, the DA
 
 ## Acknowledgement and Acceptance
 
-The DAO signers and stewards each acknowledge and accept the above Code of Conduct, Community Impact and Enforcement Guidelines, as well as the DAO Privacy Policy and Terms and Conditions, and provide the following signed messages in attestation.
+The DAO signers and stewards each acknowledge and accept the above Code of Conduct and Community Impact and Enforcement Guidelines, as well as the DAO Privacy Policy and Terms and Conditions, and provide the following signed messages in attestation.
 
 | Ethereum Address                                                                                                        | Signed Message |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------- |
