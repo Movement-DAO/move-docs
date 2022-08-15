@@ -11,7 +11,7 @@ New contributors are advised to introduce themselves in the [Movement DAO Discor
 
 ## Trial Payouts
 
-Contributors who have completed some work and familiarized themselves with the DAO's ongoing efforts are encouraged to propose a one-time trial payout. These proposals should detail work which has already been completed and plans for upcoming contributions to the DAO. Read [How to Make a Governance Proposal](proposals) to learn more.
+Contributors who have completed some work and familiarized themselves with the DAO's ongoing efforts are encouraged to propose a one-time trial payout. These proposals should detail work which has already been completed and plans for upcoming contributions to the DAO. Read the [Governance Process](/dao/governance/process) to learn more.
 
 ## Recurring Payouts
 

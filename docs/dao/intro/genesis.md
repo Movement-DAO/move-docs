@@ -14,13 +14,13 @@ The thesis:
 
 As of August 14, 2022, under 100 [unique externally owned addresses](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6).[^1] The dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
 
-The DAO shall bootstrap a community of contributors, developers to develop dao tooling to enable maintaining communities.
+The DAO shall bootstrap a community of contributors, developers to develop DAo tooling to enable maintaining communities.
 
-1. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2];
-2. value the privacy and work product of its members;
+1. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2]; and,
+2. the DAO will value the privacy and work product of its members;
 3. recommend a structure to ensure compliance to applicable laws and regulations;
-4. accounting and governance must be implemented prior to consistent access to capital; and,
-5. no [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) regarding any governance process.
+4. must implement accounting and governance prior to consistent access to capital; and,
+5. will not have any [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) regarding any governance process.
 
 In order to achieve these wishes, the following steps were taken:
 
@@ -44,11 +44,11 @@ Future multisig reconfigurations are subject to the DAO governance process.
 
 ### Governance NFT
 
-As an invitation to the top 1,500 active decentralized governance pioneers, Juicebox.money and Tribute DAO communities, a governance [NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8e07f655042) was air dropped and Twitter postings detailed the purpose. Additionally, individuals who participated consistently in the DAO's Discord, drafted proposals, and engaged in the community were given a governance nfts at no cost.[^2] The nft was a derivative of the [Bored Ape No. 1420.](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420).[^3]
+A governance [NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8e07f655042) was airdropped as an invitation to the top 1,500 active decentralized governance pioneers, the [juicebox.money](https://juicebox.money) community, and to the Tribute DAO community, and Twitter postings detailed the purpose. Additionally, individuals who participated consistently in the DAO's Discord, drafted proposals, and engaged in the community were given governance NFTs at no cost.[^2] The NFT was a derivative of [Bored Ape No. 1420.](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420).[^3]
 
 ### Treasury Oversight
 
-As of August 2022, the DAO's [Gnosis Safe](/peace/governance/multisig) had not yet invested in any significant asset diversification strategies. The DAO should appoint a treasury committee where individuals with prior experience managing at least $1,000,000 worth of cryptocurrency over an extended length of time can make written recommendations to the DAO. Community/contributor recommendations endorsed by committee members should also be considered. The prior experience managing cryptocurrencies includes current multisig wallets.
+As of August 2022, the DAO's [Gnosis Safe](/peace/governance/multisig) had not yet invested in any significant asset diversification strategies. The DAO should appoint a treasury committee where individuals with prior experience managing at least $1,000,000 worth of cryptocurrency over an extended length of time, either individually or through multisig wallets, can make written recommendations to the DAO. Community/contributor recommendations endorsed by committee members should also be considered.
 
 _See [Governance MIP-001](https://snapshot.org/#/movedao.eth/proposal/0x5494278f1f52faed8f2a0d61f0909d81d92364fa871a2b9183a61ce179bc7671) ([IPFS](https://snapshot.mypinata.cloud/ipfs/QmRDyENgBHSDNr3YuoGhS3yvnyzNfumtxoKm39h8NsD9Jn))._
 
@@ -59,14 +59,14 @@ The dao-lawfirm.eth, have made specific feature requests for the initial applica
 -   multi-token treasuries;
 -   bonding curve token emissions;
 -   integration with certain DeFi protocols;
--   voting escrow voting strategies; path to on-chain governance;
+-   voting escrow voting strategies; a path to on-chain governance;
 -   nft tooling for creators;
 -   legal compliance; and,
--   expanding the multisig;
+-   expansion of the multisig;
 
-Governance migration to voting escrow is essential, as the dao-lawfirm.eth seek to signal their long-term commitments. The dao-lawfirm.eth requested a follow up presentation within 60 days during which to present a timeline for the DAO tooling version 1.0 release.
+Governance migration to voting escrow is essential, as the dao-lawfirm.eth seek to signal their long-term commitments. The dao-lawfirm.eth requested a follow up presentation within 60 days to present a timeline for the DAO tooling version 1.0 release.
 
 [^1]: June 15 through 30, 2022, about $450,000 DAI was swapped for ETH and has appreciated. This was included in the overview of the treasury balance.
-[^2]: The slow-start "veto" was inspired by [nouns.wtf](https://nouns.wtf), see section "Governance".
-[^3]: [Movement DAO's Ascended Ape Collection](https://opensea.io/collection/movement-daos-ascended-ape-collection), as of August 10, 2022, there were 1.1k owners. All of the original Gnosis contributors were airdropped NFTs, the DAO's governance proposal and temperature-check's Snapshot voting strategy relies exclusively on the NFT while the proposal ratification strategy is a weighted whitelist based on contributions to the Gnosis. This enables virtually anyone with interest to submit a proposal and participate in the DAO.
-[^4]: [Bored Ape Yacht Club](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420) was purchased for [$295,757.76 or 96 ETH](https://etherscan.io/tx/0xf8408567c7f64549a3f141e78fe67f9e9a061e525ca87b8069f1ac0eb0ab7053), illustrator and artist [natasha-pankina.eth](https://natasha-pankina.com/) was commissioned to create the new collection incorporating themes of possible communities, diverse ape characteristics among other traits. The governance NFTs were minted and distributed at no cost to the DAO's invited governance contributors, a conservative estimate on the gas fees alone are north of $75,000.00.
+[^2]: The slow-start "veto" was inspired by [nouns.wtf](https://nouns.wtf). See the Governance 'Slow Start' section.
+[^3]: [Movement DAO's Ascended Ape Collection](https://opensea.io/collection/movement-daos-ascended-ape-collection): as of August 10, 2022, there were 1.1k owners. All of the original Gnosis contributors were airdropped NFTs. The DAO's governance proposal and temperature-check's Snapshot voting strategy relies exclusively on the NFT, while the proposal ratification strategy is a weighted whitelist based on contributions to the Gnosis. This enables virtually anyone with interest to submit a proposal and participate in the DAO. See the [Governance Process](/dao/governance/process)
+[^4]: [Bored Ape Yacht Club #1420](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420) was purchased for [96 ETH, worth $295,757.76](https://etherscan.io/tx/0xf8408567c7f64549a3f141e78fe67f9e9a061e525ca87b8069f1ac0eb0ab7053). The illustrator and artist [natasha-pankina.eth](https://natasha-pankina.com/) was commissioned to create a new collection incorporating themes of possible communities and diverse ape characteristics, among other traits. The governance NFTs were minted and distributed at no cost to governance contributors which were invited. Even a conservative estimate of the gas fees associated with this distribution is north of $75,000.00.
