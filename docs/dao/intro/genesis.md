@@ -12,9 +12,9 @@ The thesis:
 > -   Could a new type of application framework, relying on smart contracts for organizational governance and accounting, operate in a completely decentralized way?
 > -   Could decentralized applications and smart contracts facilitate greater change than traditional tools when addressing the needs of individuals and scaling to millions of communities?
 
-As of August 14, 2022, under 100 [unique externally owned addresses](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6).[^1] The dao-lawfirm.eth, together with an appointed handful of individuals ("starter signers"), established the following guidelines:
+As of August 14, 2022, under 100 [unique externally owned addresses](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6).[^1] The dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
 
-The DAO shall bootstrap a community of contributors, recruit developers, scope and develop expertise and tooling to build a framework for building and maintaining communities.
+The DAO shall bootstrap a community of contributors, developers to develop dao tooling to enable maintaining communities.
 
 1. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2];
 2. value the privacy and work product of its members;
@@ -54,18 +54,17 @@ _See [Governance MIP-001](https://snapshot.org/#/movedao.eth/proposal/0x5494278f
 
 ### Initial Signer Requests
 
-The initial signers, through dao-lawfirm.eth, have made specific feature requests for the initial application:
+The dao-lawfirm.eth, have made specific feature requests for the initial application:
 
 -   multi-token treasuries;
 -   bonding curve token emissions;
--   integration with DeFi protocols;
--   voting escrow voting strategies;
+-   integration with certain DeFi protocols;
+-   voting escrow voting strategies; path to on-chain governance;
 -   nft tooling for creators;
--   on-chain governance;
 -   legal compliance; and,
 -   expanding the multisig;
 
-Governance migration to voting escrow is essential, as the initial contributors seek to signal their long-term commitments. The initial signers provided 60 days during which to present a timeline for the DAO tooling version 1.0 release.
+Governance migration to voting escrow is essential, as the dao-lawfirm.eth seek to signal their long-term commitments. The dao-lawfirm.eth requested a follow up presentation within 60 days during which to present a timeline for the DAO tooling version 1.0 release.
 
 [^1]: June 15 through 30, 2022, about $450,000 DAI was swapped for ETH and has appreciated. This was included in the overview of the treasury balance.
 [^2]: The slow-start "veto" was inspired by [nouns.wtf](https://nouns.wtf), see section "Governance".

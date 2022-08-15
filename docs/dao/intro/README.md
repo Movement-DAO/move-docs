@@ -47,11 +47,9 @@ While also:
 -   developing sustainable public/private good community models; and,
 -   developing a sustainable endowment fund for member projects and Core Contributors.
 
-The DAO enables treasury creators to create and deploy tightly integrated Crypto-native products, thereby providing rich, sustainable opportunities for treasuries (and contributions to those treasuries) to thrive and scale.
+The DAO enables treasury creators to create and deploy tightly integrated Crypto-native products, thereby providing rich, sustainable opportunities for treasuries (and contributions to those treasuries) to thrive and scale.  The DAO also oversees and manages the DAO's Endowment which funds the DAO's applications, manages the DAO's endowment capital, and provides ecosystem grants as proposed by the DAO's contributors.[^3]
 
-The DAO also oversees and manages the DAO's Endowment which funds the DAO's applications, manages the DAO's endowment capital, and provides ecosystem grants as proposed by the DAO's contributors.[^3]
-
-The DAO is a Delaware Unincorporated Nonprofit Association, operating with contributions to its [Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)—$16,271,642.46 as of August 10, 2022. The Gnosis Safe's initial signers are coordinated by dao-lawfirm.eth, the DAO's Service Provider. DAOLABS IP, LLC provides all the tooling to the DAO via a perpetual, non-exclusive, royalty-free license and right, and all ancillary and subsidiary rights therein within the field of use of the DAO's non-profit charter. DAOLABS IP, Inc. provides the tooling to vertical and consumer for-profit applications via an exclusive license from DAOLABS IP, LLC.
+The DAO is a Delaware Unincorporated Nonprofit Association, operating with contributions to its [Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) of $16,271,642.46 as of August 10, 2022. The Gnosis Safe's initial signers are coordinated by dao-lawfirm.eth, the DAO's Service Provider. DAOLABS IP, LLC provides all the tooling to the DAO via a perpetual, non-exclusive, royalty-free license and right, and all ancillary and subsidiary rights therein within the field of use of the DAO's non-profit charter. DAOLABS IP, Inc. provides the tooling to vertical and consumer for-profit applications via an exclusive license from DAOLABS IP, LLC.
 
 [^1]: Including compliance for traditional entities: unincorporated, incorporated, for-profit, non-profit, associations, etc.
 [^2]: [Juicebox protocol v2](https://info.juicebox.money/dev/resources/addresses), [Gnosis Safe](https://github.com/safe-global/safe-contracts), etc.

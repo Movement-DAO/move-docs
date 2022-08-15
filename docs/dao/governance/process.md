@@ -3,7 +3,8 @@ title: Governance Process
 sidebar_position: 1
 ---
 
-Movement DAO is governed by its community, as expressed through MAPE voting (mainnet:[`0xdd407a053fa45172079916431d06E8e07f655042`](https://etherscan.io/token/0xdd407a053fa45172079916431d06e8e07f655042)).
+Movement DAO is governed by its community, as expressed throu7oiuy
+2210 h MAPE voting (mainnet:[`0xdd407a053fa45172079916431d06E8e07f655042`](https://etherscan.io/token/0xdd407a053fa45172079916431d06e8e07f655042)).
 
 [Multisig](multisig) transactions and signatures, as well as updates to DAO processes, must be ratified by this process prior to implementation.
 
@@ -29,7 +30,7 @@ If you need help uploading a proposal to Snapshot, tag a contributor in [Discord
 
 ## Phase 2: Consensus
 
-Every 28 days, proposals with at least 30 "For" votes in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to the DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) for seven days of voting.
+**Every 28 days, proposals with at least 30 "For" votes** in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to the DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) for seven days of voting.
 
 In the Consensus Space, addresses receive one vote per dollar donated to the the [Multisig](multisig) from February-July 2022 inclusive. 
 
