@@ -3,14 +3,13 @@ title: Governance Process
 sidebar_position: 1
 ---
 
-Movement DAO is governed by its community, as expressed throu7oiuy
-2210 h MAPE voting (mainnet:[`0xdd407a053fa45172079916431d06E8e07f655042`](https://etherscan.io/token/0xdd407a053fa45172079916431d06e8e07f655042)).
+Movement DAO is governed by its community, as expressed through MAPE voting (mainnet:[`0xdd407a053fa45172079916431d06E8e07f655042`](https://etherscan.io/token/0xdd407a053fa45172079916431d06e8e07f655042)).
 
-[Multisig](multisig) transactions and signatures, as well as updates to DAO processes, must be ratified by this process prior to implementation.
+[Multisig](multisig) transactions and signatures, as well as updates to DAO processes, must be ratified by this process prior to their implementation.
 
 ## Phase 0: Discussion
 
-Authors are encouraged to create a proposal discussion thread in the `#✍️｜proposal-workshop` channel of the [Movement DAO Discord](https://discord.gg/movexyz). Community members are encouraged to provide feedback.
+Authors are encouraged to create a proposal discussion thread in the `#✍️｜proposal-workshop` channel of the [Movement DAO Discord](https://discord.gg/movexyz) to receive the community's feedback.
 
 :::tip
 You can use the [proposal template](template) as a starting point. When writing your proposal, try to be as detailed as possible in your specification. Only include what is necessary—short, specific proposals are best.
