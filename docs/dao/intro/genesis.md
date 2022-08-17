@@ -14,7 +14,7 @@ The thesis:
 
 As of August 14, 2022, under 100 [unique externally owned addresses](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6).[^1] The dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
 
-The DAO shall bootstrap a community of contributors, developers to develop DAo tooling to enable maintaining communities.
+The DAO shall bootstrap a community of contributors and developers to develop DAO tooling to enable maintaining communities.
 
 1. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2]; and,
 2. the DAO will value the privacy and work product of its members;
