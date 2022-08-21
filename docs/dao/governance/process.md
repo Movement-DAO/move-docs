@@ -17,7 +17,7 @@ You can use the [proposal template](template) as a starting point. When writing 
 
 ## Phase 1: Temperature Check.
 
-Once finalized, authors can submit their proposals to the DAO's [Temperature Check Space](https://snapshot.org/#/movedao.eth). The Temperature Check Space grants one vote to each NFT holder.
+Once finalized, authors can submit their proposals to the DAO's [Temperature Check Space](https://snapshot.org/#/movedao.eth). The Temperature Check Space grants addresses one vote per MAPE NFT.
 
 As the DAO's Service Provider, [dao-lawfirm.eth](https://dao-lawfirm.xyz/) maintains the right to revoke Temperature Check proposals which are malicious, exploitative, or otherwise in bad faith.
 
