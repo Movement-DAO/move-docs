@@ -12,7 +12,7 @@ The thesis:
 > -   Could a new type of application framework, relying on smart contracts for organizational governance and accounting, operate in a completely decentralized way?
 > -   Could decentralized applications and smart contracts facilitate greater change than traditional tools when addressing the needs of individuals and scaling to millions of communities?
 
-As of August 14, 2022, under 100 [unique externally owned addresses (EOA)](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16,529,295.10 into the [DAO Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)("Multi-signature wallet" or "Multi-sig").[^1] dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
+As of August 14, 2022, under 100 [unique externally owned addresses (EOA)](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16.5 into the [DAO Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)("Multi-signature wallet" or "Multi-sig").[^1] dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
 
 2. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2]; and,
 1. the DAO shall bootstrap a community of contributors and developers to develop DAO tooling to enable maintaining communities;
@@ -43,7 +43,7 @@ Future multisig reconfigurations are subject to the DAO governance process.
 
 ### Governance NFT
 
-A [Governance NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8e07f655042) was airdropped to the top 1,500 active decentralized governance pioneers, the [juicebox.money](https://juicebox.money) community, and to the Tribute DAO community as an invitation to participate in DAO governance; and Twitter postings detailed the purpose. Additionally, individuals who consistently participated in the DAO's Discord, drafted proposals, and engaged in the community were given Governance NFTs at no cost.[^2] The NFT was a derivative of [Bored Ape No. 1420.](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420).[^3]
+A [Governance NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8e07f655042) was airdropped to the top 1,000 active decentralized governance pioneers, the [juicebox.money](https://juicebox.money) community, and to the Tribute DAO community as an invitation to participate in DAO governance; and Twitter postings detailed the purpose. Additionally, individuals who consistently participated in the DAO's Discord, drafted proposals, and engaged in the community were given Governance NFTs at no cost.[^2] The NFT was a derivative of [Bored Ape No. 1420.](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1420).[^3]
 
 ### Treasury Oversight
 
