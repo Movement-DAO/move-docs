@@ -89,7 +89,7 @@ We will not be liable to you for any loss or damage you may suffer as a result o
 
 **You acknowledge that the Site and your use of the Site contain certain risks, including, without limitation, the following risks:**
 
-1. that any Smart Contracts you interact with are entirely your own responsibility and liability, and that DAO is not party to the Smart Contracts;
+1. that any Smart Contracts you interact with are entirely your own responsibility and liability;
 2. that at any time, your access to your Cryptocurrency Assets may be suspended or terminated or there may be a delay in your access or use of your Cryptocurrency Assets which may result in the Cryptocurrency Assets diminishing in value or you being unable to complete a transaction or interact with a Smart Contract; and
 3. That the Site and/or application may be suspended or terminated for any or no reason, which may limit your access to your Cryptocurrency Assets.
 
@@ -102,7 +102,7 @@ We will not be liable to you for any loss or damage you may suffer as a result o
 
 ANY GOVERNANCE TOKENS RECEIVED BY MEMBERS HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE UNITED STATES SECURITIES AND EXCHANGE COMMISSION, ANY STATE SECURITIES COMMISSION, OR OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON THE MERITS OF THIS OFFERING OR UPON THE ACCURACY OR ADEQUACY OF THIS AGREEMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OR SOLICITATION TO ANYONE IN ANY JURISDICTION IN WHICH SUCH OFFER OR SOLICITATION IS NOT AUTHORIZED.
 
-ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. THE DAO'S POSITION IS THAT THE DAO'S GOVERNANCE TOKENS SHOULD NOT BE SINCE THE PURPOSE OF THE DAO IS TO PROVIDE A BLOCKCHAIN NATIVE ACCOUNTING APPLICATION, PROVIDE NO RIGHTS TO ANY DISTRIBUTION OR PROFITS, AND ARE NON-TRANSFERABLE EXCEPT AS DETAILED IN THE TERMS OF USE.
+ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. THE DAO'S POSITION IS THAT THE DAO'S GOVERNANCE TOKENS SHOULD NOT BE CONSIDERED OR REGARDED AS SECURITIES AS THE PURPOSE OF THE DAO IS TO PROVIDE A BLOCKCHAIN NATIVE TREASURY MANAGEMENT APPLICATION AND THE DAO TOKENS PROVIDE NO RIGHTS TO ANY DISTRIBUTION OR PROFITS, AND ARE NON-TRANSFERABLE AS DETAILED IN THE TERMS OF USE.
 
 ### 10. OFAC Compliance.
 
