@@ -13,7 +13,7 @@ sidebar_position: 1
 
 ## Introduction.
 
-These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of MovementDAO, also known as Move DAO (hereinafter “DAO”), an unincorporated nonprofit association organized under the laws of the State of Delaware.
+These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of Movement DAO, also known as Move (hereinafter “DAO”), an unincorporated nonprofit association organized under the laws of the State of Delaware.
 
 The following terms apply when you click to view or access DAO's Dapp, DAO's online services (including https://move.xyz) or any of DAO's sites, donate or transfer cryptocurrencies such as Ethereum, or transfer one or more ERC-20 ("Tokens") or ERC-721 ("NFTs") or other digital assets (collectively, "Cryptographic currencies") to the DAO, become a Member of DAO, receive DAO Governance Tokens, hold Governance Rights for the DAO, interact with or access [the DAO's smart contracts](/dao/resources/addresses) in any way, provide services to the DAO, donate or transfer any property to the DAO, or otherwise interact with or access any other of the DAO's services. The DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
 
