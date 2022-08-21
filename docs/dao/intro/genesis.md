@@ -59,7 +59,7 @@ dao-lawfirm.eth, have made specific feature requests for the initial application
 -   bonding curve token emissions;
 -   integration with certain DeFi protocols;
 -   escrow voting strategies; a path to on-chain governance;
--   nft tooling for creators; and
+-   NFT tooling for creators; and
 -   legal compliance,
 
 and have also requested an expansion of the Multi-sig. Governance migration to voting escrow is essential, as dao-lawfirm.eth desires to signal their long-term commitments. dao-lawfirm.eth requested a follow up presentation within **60 days,**[^5] to present a timeline for the DAO tooling version 1.0 release.
