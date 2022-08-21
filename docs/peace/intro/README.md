@@ -10,6 +10,13 @@ The Peace Movement DAO's purpose is to fund life-saving assistance and support f
 
 Peace DAO is democratically governed by its community, **radically reducing overhead and maximizing impact**.
 
+<div style={{display: "flex", flexDirection: "row", flexWrap: "wrap", gap: "40px", width: "inherit"}}>
+<img src="/img/peace/blue/card.svg" style={{flex: 1, maxWidth: "150px", display: "block", height: "auto"}} />
+<img src="/img/peace/pink/card.svg" style={{flex: 1, maxWidth: "150px", display: "block", height: "auto"}} />
+<img src="/img/peace/green/card.svg" style={{flex: 1, maxWidth: "150px", display: "block", height: "auto"}} />
+<img src="/img/peace/white/card.svg" style={{flex: 1, maxWidth: "150px", display: "block", height: "auto"}} />
+</div>
+
 ## FAQ
 
 ### _How does Peace DAO work?_

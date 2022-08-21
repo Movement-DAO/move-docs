@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 ## <p align="center">DAO Gnosis Contributions</p>
 
 | #   | blockNumber | timestamp     | transactionHash                                                    | sender                                     | value                 | symbol | decimalValue | normalizedAmount         | dollarAmount  |

@@ -4,7 +4,7 @@ sidebar_position: 2
 slug: /tos
 ---
 
-Last Updated: August 16th, 2022
+Last Updated: August 21st, 2022
 
 PLEASE READ THIS TERMS OF SERVICE AGREEMENT (THE “TERMS OF SERVICE”) CAREFULLY. THIS SITE AND ANY OTHER WEBSITES OF THE DAO (“DAO”), ITS AFFILIATES OR AGENTS (COLLECTIVELY, THE “SITE”) IS CONTROLLED BY THE DAO. THESE TERMS OF USE GOVERN THE USE OF THE SITE AND APPLY TO ALL INTERNET USERS VISITING THE SITE. BY ACCESSING OR USING THE SITE IN ANY WAY, INCLUDING USING THE SERVICES AND RESOURCES AVAILABLE OR ENABLED VIA THE SITE (EACH A “SERVICE” AND COLLECTIVELY, THE “SERVICES”). BY CLICKING ON THE “I ACCEPT” BUTTON, COMPLETING THE REGISTRATION PROCESS, AND/OR BROWSING THE SITE, YOU REPRESENT THAT (1) YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF SERVICE, (2) YOU ARE OF LEGAL AGE TO FORM A BINDING CONTRACT WITH THE DAO, AND (3) YOU HAVE THE AUTHORITY TO ENTER INTO THE TERMS OF USE PERSONALLY OR ON BEHALF OF THE ENTITY YOU HAVE NAMED AS THE USER, AND TO BIND THAT ENTITY TO THE TERMS OF SERVICE. THE TERM “YOU” REFERS TO THE INDIVIDUAL OR LEGAL ENTITY, AS APPLICABLE, IDENTIFIED AS THE USER WHEN YOU REGISTERED ON THE SITE. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF SERVICE, YOU MAY NOT ACCESS OR USE THIS SITE OR THE SERVICES.
 
@@ -12,7 +12,7 @@ PLEASE BE AWARE THAT SECTION 15 (ARBITRATION, OUR DISPUTE RESOLUTION PROCESS) OF
 
 ### Decentralized, Centralized Applications.
 
-The DAO applications may be accessed at the following URLs: daolabs.wtf, dao-lawfirm.xyz, movement.xyz, juicebox.wtf, treasury.wtf, tiles.wtf[^1] and any services used by the DAO, such as Discord, Twitter, Instagram and Github.
+DAO applications may be accessed at the following URLs: daolabs.wtf, dao-lawfirm.xyz, movement.xyz, juicebox.wtf, treasury.wtf, tiles.wtf and any services used by the DAO, such as Discord, Twitter, Instagram and Github.[^1]
 
 ### Parties, Notice addresses.
 
@@ -20,7 +20,7 @@ The parties to this agreement are **you** (user of the DAO's decentralized appli
 
 ### Introduction.
 
-Please read these terms of service (“Terms”) carefully. These Terms are between you and the DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of **DAO decentralized application ("DAPP") or sites**, including the sites listed above, other DAO websites, and other websites maintained by the DAO (together the "Site" or "Sites") which may interact with and operate on the Juicebox protocol (the "Juicebox DAO Protocol") currently available on Ethereum via [smart contracts](/dao/resources/addresses) (“Smart Contracts”).
+Please read these terms of service (“Terms”) carefully. These Terms are between you and the DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of the **DAO's decentralized application ("DAPP") or websites**, including the sites listed above, other DAO websites, and other websites maintained by the DAO (together the "Site" or "Sites") which may interact with and operate on the Juicebox protocol (the "Juicebox DAO Protocol") currently available on Ethereum via [smart contracts](/dao/resources/addresses) (“Smart Contracts”).
 
 These Terms apply to you (**“you,”** or **“User”**) as a user of the Site information made available on the Site.
 
