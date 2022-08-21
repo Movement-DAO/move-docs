@@ -1,11 +1,11 @@
 ---
 title: Proposal Template
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 ---
 
-*Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it. <a target="\_blank" href='/downloads/template.md' download>Download here.</a>*
+_Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it. <a target="\_blank" href='/downloads/template.md' download>Download here.</a>_
 
 ---
 
@@ -18,24 +18,24 @@ Creation Date: (YYYY-MM-DD)
 
 ## Thesis
 
-*What's the idea?*
+_What's the idea?_
 
 ## Motivation
 
-*Why now? What problems does this solve?*
+_Why now? What problems does this solve?_
 
 ## Specification
 
-*How exactly will this be executed? Be specific and leave no ambiguity.*
+_How exactly will this be executed? Be specific and leave no ambiguity._
 
 ## Rationale
 
-*Why is this specification the best way to address this thesis?*
+_Why is this specification the best way to address this thesis?_
 
 ## Risks
 
-*What might go wrong?*
+_What might go wrong?_
 
 ## Timeline
 
-*When exactly should this proposal take effect? When exactly should this proposal end?*
+_When exactly should this proposal take effect? When exactly should this proposal end?_

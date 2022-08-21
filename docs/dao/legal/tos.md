@@ -8,9 +8,18 @@ slug: /tos
 
 Last Updated: August 16th, 2022
 
+### Decentralized, Centralized Applications
+
+The DAO applications may be accessed at the following URLs:
+
+ https://move.xyz
+ https://movementdao.xyz
+ https://juicebox.wtf
+ https://discord.gg/movexyz
+
 ### Introduction
 
-Please read these terms of service (“Terms”) carefully. These Terms are between you and Movement DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of DAO decentralized application ("DAPP") or sites, including the sites currently located at https://move.xyz, https://juicebox.wtf, https://discord.gg/movexyz, other DAO websites, and other websites maintained by the DAO (together the "Site" or "Sites") which may interact with and operate on the Juicebox protocol (the "Juicebox DAO Protocol") currently available on Ethereum via [smart contracts](/dao/resources/addresses) (“Smart Contracts”).
+Please read these terms of service (“Terms”) carefully. These Terms are between you and Movement DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of DAO decentralized application ("DAPP") or sites, including the sites listed above, other DAO websites, and other websites maintained by the DAO (together the "Site" or "Sites") which may interact with and operate on the Juicebox protocol (the "Juicebox DAO Protocol") currently available on Ethereum via [smart contracts](/dao/resources/addresses) (“Smart Contracts”).
 
 These Terms apply to you (**“you,”** or **“User”**) as a user of the Site information made available on the Site.
 
