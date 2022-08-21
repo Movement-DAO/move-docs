@@ -7,12 +7,12 @@ The multi-signature wallet ("Multi-sig") is a Gnosis Safe contract deployed at [
 
 The Multi-sig Signers ("Initial Signers" or the "Signers") are responsible for custody of the treasury and the execution of certain on-chain and off-chain actions described in governance proposals.
 
-## Agreement
+## 1. Agreement.
 
 Signers must agree to abide by the following principles:
 
 1. To act in accordance with the will of the DAO, as expressed through the DAO's [governance process](process).
 2. To maintain a Multi-sig Safe threshold equal to or greater than 60 percent of the number of Signers.
-3. To execute all Multi-sig transactions in accordance with the Movement DAO governance process.
+3. To execute all Multi-sig transactions in accordance with the DAO governance process.
 
-Multi-sig members in violation of these principles are to be removed from the Movement Multi-sig, at the discretion of [dao-lawfirm.eth](https://dao-lawfirm.xyz).
+Multi-sig members in violation of these principles are to be removed from the Multi-sig, at the discretion of [dao-lawfirm.eth](https://dao-lawfirm.xyz).

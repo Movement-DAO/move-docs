@@ -7,7 +7,7 @@ The DAO is governed by its community, as expressed through NFT voting (mainnet:[
 
 [Multi-sig](multisig) transactions and signatures, as well as updates to DAO processes, must be ratified by this process prior to their implementation.
 
-## Phase 0: Discussion
+## Phase 0: Discussion.
 
 Authors are encouraged to create a proposal discussion thread in the `#✍️｜proposal-workshop` channel of the [DAO Discord](https://discord.gg/movexyz) to receive the community's feedback.
 
@@ -15,7 +15,7 @@ Authors are encouraged to create a proposal discussion thread in the `#✍️｜
 You can use the [proposal template](template) as a starting point. When writing your proposal, try to be as detailed as possible in your specification. Only include what is necessary—short, specific proposals are best.
 :::
 
-## Phase 1: Temperature Check
+## Phase 1: Temperature Check.
 
 Once finalized, authors can submit their proposals to DAO's [Temperature Check Space](https://snapshot.org/#/movedao.eth). The Temperature Check Space grants one vote to each NFT holder.
 
@@ -27,19 +27,19 @@ Proposals in the Temperature Check Space will be archived after **fifty-six (56)
 If you need help uploading a proposal to Snapshot, tag a contributor in [Discord](https://discord.gg/movexyz).
 :::
 
-## Phase 2: Consensus
+## Phase 2: Consensus.
 
 **Every 28 days, proposals with at least 30 "For" votes** in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to the DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) for **seven (7) days** of voting.
 
-In the Consensus Space, addresses receive **one vote per dollar** contributed to the the [Multi-sig](multisig) from [February-July 2022](/dao/governance/gnosis) inclusive. 
+In the Consensus Space, addresses receive **one vote per dollar** contributed to the the [Multi-sig](multisig) from [February-July 2022](/dao/governance/gnosis) inclusive.
 
 As the DAO's Service Provider, [dao-lawfirm.eth](https://dao-lawfirm.xyz/) maintains the right to revoke Consensus proposals which are malicious, exploitative, or otherwise in bad faith.
 
-## Phase 3: Execution
+## Phase 3: Execution.
 
 Once voting closes, proposals with at least **66% approval** are queued for execution by the [Multi-sig](multisig). "Abstain" votes are not included in this calculation.
 
-## Emergency Governance
+## Emergency Governance.
 
 In an emergency scenario, the [Multi-sig](multisig) can take onchain actions if explicit public approval from **80 percent** or more of Multi-sig signers and explicit public approval from dao-lawfirm.eth are received.
 
