@@ -11,11 +11,11 @@ This is the Code of Conduct for DAO and its community. Some terms used in this d
 
 Before being admitted as a DAO Member, each individual must accept the DAO's Code of Conduct, the DAO's Community Enforcement Guidelines, the DAO's [Guiding Principals](/dao/legal/guiding-principles), and the DAO's [Terms of Service](/dao/legal/tos).
 
-In the event of a breach of the Code of Conduct, or a breach of any applicable terms and conditions, the DAO reserves the right to remove the DAO Member without notice.
+In the event of a breach of the Code of Conduct, or a breach of any applicable terms and conditions, the DAO reserves the right to remove the associated DAO Member(s) without notice.
 
-Views, statements and opinions expressed by a DAO Member do not necessarily reflect the opinions of the DAO Association or any of its affiliated entities, and shall be considered individual and personal statements of the selected candidate. The DAO shall not in any case be held responsible for any views, statements or opinions of any kind expressed by the DAO Member.
+Views, statements and opinions expressed by a DAO Member do not necessarily reflect the opinions of the DAO Association or any of its affiliated entities, and shall be considered individual and personal statements of that DAO Member. The DAO shall not in any case be held responsible for any views, statements or opinions of any kind expressed by the DAO Member.
 
-Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive community. By their participation in the community, every Member agrees to make our community a harassment-free experience for everyone regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behavior contrary to this spirit of tolerance is unacceptable, and those acting in such a way will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
+Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive community. By participating in the community, every Member agrees to make our community a harassment-free experience for everyone regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behavior contrary to this spirit of tolerance is unacceptable, and those acting in such a way will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
 
 ## Community Standards.
 
@@ -42,25 +42,25 @@ Every Member must act and interact in ways that contribute to an open, welcoming
 
 ## Community Enforcement Guidelines.
 
-DAO Members will follow the Community Impact and Enforcement Guidelines listed below in determining the consequences for any action they deem in violation of the Code of Conduct:
+DAO Members will follow the Community Impact and Enforcement Guidelines listed below in determining the consequences for any action they deem to be in violation of the Code of Conduct:
 
 ### 1. Correction.
 
-**Transgression:** The use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+**Transgression:** The use of inappropriate language or other unprofessional or unwelcome behavior.
 
-**Consequence:** Deletion or removal of the post in question, along with communication of which rule was violated and how to avoid such violations in the future. If the action was in person: direct communication with that individual to identify which rule was violated (and how to avoid such violations in the future).
+**Consequence:** Deletion or removal of the content in question, along with a communication of which rule was violated and how to avoid such violations in the future.
 
 ### 2. Warning.
 
 **Transgression:** A violation of the DAO's Code of Conduct, either through a single incident or a series of actions.
 
-**Consequence:** A warning with consequences for continued inappropriate behavior. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct), for a specified period of time. This includes interactions in community spaces, as well as interactions through external channels like Telegram, Discord, Reddit, a Community Forum, or another platform. Violating these terms may lead to a temporary or permanent ban.
+**Consequence:** A warning describing the consequences for continued inappropriate behavior. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) for 72 hours. This includes interactions in community spaces, as well as interactions through external channels like Telegram, Discord, Reddit, a Community Forum, or another platform. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban.
 
 **Transgression:** A serious violation of community standards, including sustained inappropriate behavior.
 
-**Consequence:** A temporary ban from any sort of interaction or public communication with the Community for a specified period of time. No public or private interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) during this period. Violating these terms may lead to a permanent ban.
+**Consequence:** A temporary ban from any sort of interaction or communication with the Community for 168 hours. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban.
 
@@ -76,7 +76,7 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 ## Other.
 
-Notwithstanding the above community standards and enforcement guidelines, the DAO and its service provider(s) reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
+Notwithstanding the above community standards and enforcement guidelines, the DAO and its service provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
 
 ---
 
