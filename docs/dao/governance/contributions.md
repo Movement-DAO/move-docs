@@ -3,7 +3,7 @@ title: Contributions
 sidebar_position: 3
 ---
 
-The following table represents the majority of contributions to the Gnosis by sender, value, type, and normalized dollar value. A detailed normalized dollar value will be computed prior to the computation of the token distribution.
+The following table documents the majority of contributions to the Gnosis, organized by sender, value, type, and normalized dollar value. Normalized dollar value will be re-computed prior to the computation of the token distribution.
 
 | BlockNumber |                   Sender                   |    Value    | Symbol |    Amount     |
 | :---------: | :----------------------------------------: | :---------: | :----: | :-----------: |

@@ -53,7 +53,7 @@ _See [Governance MIP-001](https://snapshot.org/#/movedao.eth/proposal/0x5494278f
 
 ### Initial Signer Requests
 
-The dao-lawfirm.eth, have made specific feature requests for the initial application:
+dao-lawfirm.eth, have made specific feature requests for the initial application:
 
 -   multi-token treasuries;
 -   bonding curve token emissions;
@@ -62,7 +62,7 @@ The dao-lawfirm.eth, have made specific feature requests for the initial applica
 -   nft tooling for creators; and
 -   legal compliance,
 
-and have also requested an expansion of the Multi-sig. Governance migration to voting escrow is essential, as the dao-lawfirm.eth desires to signal their long-term commitments. The dao-lawfirm.eth requested a follow up presentation within **60 days,**[^5] to present a timeline for the DAO tooling version 1.0 release.
+and have also requested an expansion of the Multi-sig. Governance migration to voting escrow is essential, as dao-lawfirm.eth desires to signal their long-term commitments. dao-lawfirm.eth requested a follow up presentation within **60 days,**[^5] to present a timeline for the DAO tooling version 1.0 release.
 
 [^1]: June 15 through 30, 2022, about $450,000 DAI was swapped for ETH and has appreciated. This was included in the overview of the treasury balance.  The Multi-sig transaction history is available at [Gnosis](/dao/governance/gnosis).
 [^2]: The slow-start "veto" was inspired by [nouns.wtf](https://nouns.wtf). See the Governance 'Slow Start' section.
