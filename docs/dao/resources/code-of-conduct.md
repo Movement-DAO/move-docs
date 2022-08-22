@@ -32,33 +32,6 @@ Every Member must act and interact in ways that contribute to an open, welcoming
 
 We are committed to Personal Integrity, Excellence, Teamwork, Inspiration to the Community Members. We are Responsible to our Community Members, Ourselves, Each Other, and to our Partners, Colleagues, and the Community we serve.
 
-When confronted with an ethical dilemma, it is our responsibility to take action. We have adopted a decision-making-model to assess whether or not a particular action is "the right thing to do", aware that "no action, may have serious consequences to the DAO, its Members, and our Community.
-
-**Action Decision Making Model**
-
--   Act Responsibly
-    > -   It's okay to make mistakes, have you taken responsibility for your share of the problem?
-    > -   Do you have all the information you need?
-    > -   Has all the information been clarified?
--   Consider Our Core Values
-    > -   Does it demonstrate respect for our **Members**?
-    > -   Does it demonstrate **Excellence**?
-    > -   Does the action reflect **Integrity**?
-    > -   Does it promote **Teamwork**?
--   Trust Your Judgement
-    > -   Is the action fair?
-    > -   Does it feel comfortable?
-    > -   Is it the "right" thing to do?
-    > -   Could it be shared publicly?
-    > -   Can you look yourself in the mirror and say you acted with integrity?
-- Identify Impact on DAO Members
-> - Does the action have a negative or positive impact on uor DAO Members?
-- Obey the Rules
-> - Does the action comply with:
-> - the Law?
-> - Company policy?
-> - 
-
 **Examples of unacceptable behavior include:**
 
 -   The use of sexualized language or imagery, and sexual attention or advances of any kind.
