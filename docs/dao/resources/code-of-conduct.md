@@ -3,7 +3,7 @@ title: Code of Conduct
 sidebar_position: 2
 ---
 
-This is the Code of Conduct for DAO and its community. Some terms used in this document have specific meanings, and are defined in the [Definitions](/dao/legal/definitions).
+This is the Code of Conduct for DAO and its Community. Some terms used in this document have specific meanings, and are defined in the [Definitions](/dao/legal/definitions).
 
 ---
 
@@ -15,11 +15,11 @@ In the event of a breach of the Code of Conduct, or a breach of any applicable t
 
 Views, statements and opinions expressed by a DAO Member do not necessarily reflect the opinions of the DAO Association or any of its affiliated entities, and shall be considered individual and personal statements of that DAO Member. The DAO shall not in any case be held responsible for any views, statements or opinions of any kind expressed by the DAO Member.
 
-Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive community. By participating in the community, every Member agrees to make our community a harassment-free experience for everyone regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behavior contrary to this spirit of tolerance is unacceptable, and those acting in such a way will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
+Every Member must act and interact in ways that contribute to an open, welcoming, diverse, and inclusive Community. By participating in the Community, every Member agrees to make our Community a harassment-free experience for everyone regardless of age, body size, visible or invisible disability, ethnicity, sex, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. Any behavior contrary to this spirit of tolerance is unacceptable, and those acting in such a way will be immediately excluded from the Dapp, and prevented from any and all privileges granted to DAO Members.
 
 ## Community Standards.
 
-**Examples of behavior that contributes to a positive environment for our community include:**
+**Examples of behavior that contributes to a positive environment for our Community include:**
 
 -   Honesty.
 -   Prioritizing education; learning by doing.
@@ -27,8 +27,37 @@ Every Member must act and interact in ways that contribute to an open, welcoming
 -   Being respectful.
 -   Giving and accepting feedback.
 -   Accepting responsibility. Owning mistakes, and learning from them.
--   Focusing on what is best for the community.
--   Executing and signing transactions on behalf of and at the discretion of the Community.
+-   Focusing on what is best for the Community.
+-   Stewards of the Community and its wishes.
+
+We are committed to Personal Integrity, Excellence, Teamwork, Inspiration to the Community Members. We are Responsible to our Community Members, Ourselves, Each Other, and to our Partners, Colleagues, and the Community we serve.
+
+When confronted with an ethical dilemma, it is our responsibility to take action. We have adopted a decision-making-model to assess whether or not a particular action is "the right thing to do", aware that "no action, may have serious consequences to the DAO, its Members, and our Community.
+
+**Action Decision Making Model**
+
+-   Act Responsibly
+    > -   It's okay to make mistakes, have you taken responsibility for your share of the problem?
+    > -   Do you have all the information you need?
+    > -   Has all the information been clarified?
+-   Consider Our Core Values
+    > -   Does it demonstrate respect for our **Members**?
+    > -   Does it demonstrate **Excellence**?
+    > -   Does the action reflect **Integrity**?
+    > -   Does it promote **Teamwork**?
+-   Trust Your Judgement
+    > -   Is the action fair?
+    > -   Does it feel comfortable?
+    > -   Is it the "right" thing to do?
+    > -   Could it be shared publicly?
+    > -   Can you look yourself in the mirror and say you acted with integrity?
+- Identify Impact on DAO Members
+> - Does the action have a negative or positive impact on uor DAO Members?
+- Obey the Rules
+> - Does the action comply with:
+> - the Law?
+> - Company policy?
+> - 
 
 **Examples of unacceptable behavior include:**
 
@@ -54,17 +83,17 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 **Transgression:** A violation of the DAO's Code of Conduct, either through a single incident or a series of actions.
 
-**Consequence:** A warning describing the consequences for continued inappropriate behavior. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) for 72 hours. This includes interactions in community spaces, as well as interactions through external channels like Telegram, Discord, Reddit, a Community Forum, or another platform. Violating these terms may lead to a temporary or permanent ban.
+**Consequence:** A warning describing the consequences for continued inappropriate behavior. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) for 72 hours. This includes interactions in Community spaces, as well as interactions through external channels like Telegram, Discord, Reddit, a Community Forum, or another platform. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban.
 
-**Transgression:** A serious violation of community standards, including sustained inappropriate behavior.
+**Transgression:** A serious violation of Community standards, including sustained inappropriate behavior.
 
 **Consequence:** A temporary ban from any sort of interaction or communication with the Community for 168 hours. No interaction shall take place with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban.
 
-**Transgression:** Demonstrating a pattern of violating community standards, including sustained inappropriate behavior, harassment, aggression, or disparagement towards individuals or classes of individuals.
+**Transgression:** Demonstrating a pattern of violating Community standards, including sustained inappropriate behavior, harassment, aggression, or disparagement towards individuals or classes of individuals.
 
 **Consequence:** Permanent removal from any sort of interaction or public communication with the Community for an indefinite period of time. If an individual has alternate accounts, those may be removed as well. No public or private interaction with the people involved (including unsolicited interaction with those enforcing the Code of Conduct) shall take place during this period.
 
@@ -76,7 +105,7 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 ## Other.
 
-Notwithstanding the above community standards and enforcement guidelines, the DAO and its service provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
+Notwithstanding the above Community standards and enforcement guidelines, the DAO and its service provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
 
 ---
 
