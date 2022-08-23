@@ -9,7 +9,7 @@ This is the Code of Conduct for DAO and its Community. Some terms used in this d
 
 ## Community.
 
-Before being admitted as a DAO Member, each individual must accept the DAO's Code of Conduct, the DAO's Community Enforcement Guidelines, the DAO's [Guiding Principals](https://gov.move.xyz/dao/legal/guiding-principles), and the DAO's [Terms of Service](https://gov.move.xyz/dao/legal/tos).
+Before being admitted as a DAO Member, each individual must accept the DAO's Code of Conduct, the DAO's Community Enforcement Guidelines, the DAO's [Guiding Principals](https://gov.move.xyz/dao/legal/guiding-principles), and the DAO's [Terms of Service](https://gov.move.xyz/tos).
 
 In the event of a breach of the Code of Conduct, or a breach of any applicable terms and conditions, the DAO reserves the right to remove the associated DAO Member(s) without notice.
 
