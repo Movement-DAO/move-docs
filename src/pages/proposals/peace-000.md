@@ -7,7 +7,7 @@ Date: 2022-08-12
 
 ## Thesis
 
-Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/multisig).
+Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/Multisig).
 
 ## Motivation
 
@@ -17,7 +17,7 @@ Establishing a clear governance process will provide utility to the Token and th
 
 ## Specification
 
-Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/multisig) _([IPFS Mirror](https://gateway.pinata.cloud/ipfs/QmNTShzDjbTy73G1a49D61ekhsAFnM1SFkBDaj3SC7LqLo))_.
+Ratify and adopt the [Peace DAO Governance Process](https://gov.move.xyz/peace/governance/process) and the [Peace DAO Multisig Process](https://gov.move.xyz/peace/governance/Multisig) _([IPFS Mirror](https://gateway.pinata.cloud/ipfs/QmNTShzDjbTy73G1a49D61ekhsAFnM1SFkBDaj3SC7LqLo))_.
 
 Update Peace DAO's [Snapshot](https://snapshot.org/#/peace.movedao.eth), [Discord server](https://discord.gg/movexyz), and other relevant resources to reflect these changes.
 
@@ -36,8 +36,8 @@ The Multisig Process:
 
 ## Risks
 
-- These processes rely on sound distribution of tokens and NFTs, as well as sound multisig Membership.
-- Poor decision making, malicious behaviour, or bias from the multisig could prove disastrous. Multisig Membership should expand over time.
+- These processes rely on sound distribution of tokens and NFTs, as well as sound Multisig Membership.
+- Poor decision making, malicious behaviour, or bias from the Multisig could prove disastrous. Multisig Membership should expand over time.
 - This government process is more rigid than the DAO's current processes. Although this will improve transparancy, it may make the DAO less flexible in urgent situations.
 - The process has high thresholds, meaning only well-liked proposals will pass.
 - The process inherits risks of democracy.
