@@ -8,44 +8,44 @@ slug: /dao
 
 The DAO and its community are building a platform for creating blockchain-based treasuries and communities which can operate at any scale.
 
--   If you would like to join the DAO as a contributor, read [How to Contribute](contribute).
--   If you are building (or would like to build) a sustainable, high-impact project with a focus on social good, reach out on [Discord](https://discord.gg/movexyz).
+- If you would like to join the DAO as a contributor, read [How to Contribute](contribute).
+- If you are building (or would like to build) a sustainable, high-impact project with a focus on social good, reach out on [Discord](https://discord.gg/movexyz).
 
 ## Purpose
 
 The primary purpose of the DAO is to enable Ethereum treasuries which are:
 
--   transparent;
--   turnkey;
--   extensible;
--   scalable;
--   community-focused;
--   compatible with existing banking infrastructure; and,
--   legally compliant.[^1]
+- transparent;
+- turnkey;
+- extensible;
+- scalable;
+- community-focused;
+- compatible with existing banking infrastructure; and,
+- legally compliant.[^1]
 
 The DAO's applications are coordinated through Gnosis Safes, the Juicebox protocol, and smart contracts.[^2]
 
 The DAO is building:
 
--   legal frameworks which enable associations and entities to utilize cryptocurrencies;
--   legal structure/governance document generators;
--   diverse NFT tooling for creators and communities;
--   tools for treasury diversification and token management;
--   on-chain and off-chain governance tools;
--   reputation scoring and ranking for treasuries, communities, and individuals; and,
--   a Cryptocurrency wallet solutions which:
-    -   simplifies Cryptocurrency on/off-boarding;
-    -   enhances Cryptocurrency wallet management;
-    -   natively implements Multi-signature wallets, including Gnosis Safes;
-    -   simplifies Multi-signature management and interaction; and,
-    -   integrates with traditional banking and credit/debit cards.
+- legal frameworks which enable associations and entities to utilize cryptocurrencies;
+- legal structure/governance document generators;
+- diverse NFT tooling for creators and communities;
+- tools for treasury diversification and token management;
+- on-chain and off-chain governance tools;
+- reputation scoring and ranking for treasuries, communities, and individuals; and,
+- a Cryptocurrency wallet solutions which:
+  - simplifies Cryptocurrency on/off-boarding;
+  - enhances Cryptocurrency wallet management;
+  - natively implements Multi-signature wallets, including Gnosis Safes;
+  - simplifies Multi-signature management and interaction; and,
+  - integrates with traditional banking and credit/debit cards.
 
 While also:
 
--   supporting JuiceboxDAO and the Juicebox protocol's community;
--   enabling and fostering public goods and community-focused projects;
--   developing sustainable public/private good community models; and,
--   developing a sustainable endowment fund for member projects and Core Contributors.
+- supporting JuiceboxDAO and the Juicebox protocol's community;
+- enabling and fostering public goods and community-focused projects;
+- developing sustainable public/private good community models; and,
+- developing a sustainable endowment fund for member projects and Core Contributors.
 
 The DAO enables treasury creators to create and deploy tightly integrated Crypto-native products, thereby providing rich, sustainable opportunities for treasuries (and contributions to those treasuries) to thrive and scale. The DAO also oversees and manages the DAO's Endowment which funds the DAO's applications, manages the DAO's endowment capital, and provides ecosystem grants as proposed by the DAO's contributors.[^3]
 

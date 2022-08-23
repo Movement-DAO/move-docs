@@ -3,7 +3,7 @@ title: Multisig
 sidebar_position: 2
 ---
 
-*The Peace DAO Multisig is responsible for custody of [Peace DAO's treasury](https://juicebox.money/p/peace) and the execution of certain onchain actions in proposals.*
+_The Peace DAO Multisig is responsible for custody of [Peace DAO's treasury](https://juicebox.money/p/peace) and the execution of certain onchain actions in proposals._
 
 ## Definition
 

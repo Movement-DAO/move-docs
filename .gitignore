@@ -5,8 +5,12 @@
 /build
 
 # Generated files
+/.svelte-kit
+/package
 .docusaurus
 .cache-loader
+package-lock.json
+static/commit-hash.txt
 
 # Misc
 .DS_Store
@@ -18,3 +22,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+.env.*
+!.env.example
+.vercel
+.output
+*.log

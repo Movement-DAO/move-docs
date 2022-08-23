@@ -3,7 +3,7 @@ title: Join Us
 sidebar_position: 3
 ---
 
-*This guide will teach you how join Peace DAO.*
+_This guide will teach you how join Peace DAO._
 
 ## Discord
 

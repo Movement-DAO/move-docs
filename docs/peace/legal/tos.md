@@ -50,12 +50,14 @@ Access to the Site is provided on an “as is” and “as available” basis on
 We will not be liable to you for any loss or damage you may suffer as a result of the Sites being unavailable at any time for any reason. You will comply with all applicable domestic and international laws, statutes, ordinances and regulations applicable to your use of the Sites.
 
 **As a condition to accessing or using the Site, you will:**
+
 1. only use the Site in accordance with these Terms;
 2. ensure that all information that you provide on the Site is current, complete, and accurate;
 3. ensure compliance with all U.S. Securities laws; and
 4. maintain the security and confidentiality of access to your Cryptocurrency Wallet address.
 
 **As a condition to accessing or using the Site, you will not:**
+
 1. violate any applicable law, including, without limitation, any relevant and applicable anti-money laundering and anti-terrorist financing laws as well as any relevant and applicable privacy and data collection laws, in each case as may be amended;
 2. export, reexport, or transfer, directly or indirectly, any DAO technology in violation of applicable export laws or regulations;
 3. infringe on or misappropriate any contract, intellectual property or other third-party right, or commit a tort while using the Site;
@@ -71,11 +73,13 @@ We will not be liable to you for any loss or damage you may suffer as a result o
 13. encourage or induce any third party to engage in any of the activities prohibited under these Terms.
 
 **You acknowledge that the Site and your use of the Site contain certain risks, including without limitation the following risks:**
+
 1. That any Smart Contracts you interact with are entirely your own responsibility and liability, and that DAO is not party to the Smart Contracts;
 2. That at any time, your access to your Cryptocurrency Assets may be suspended or terminated or there may be a delay in your access or use of your Cryptocurrency Assets which may result in the Cryptocurrency Assets diminishing in value or you being unable to complete a Smart Contract; and
 3. That the Site and/or application may be suspended or terminated for any or no reason, which may limit your access to your Cryptocurrency Assets.
 
 **Accordingly, you expressly agree that:**
+
 1. You assume all risks in connection with your access and use of the Site, the DAO Application and the Smart Contracts; and
 2. You expressly release the DAO, our contributors, members, and affiliates, and hold them harmless from and against, any and all liability, claims, causes of action, losses, expenses, or damages (whether arising in law or equity, including but not limited to special, consequential, indirect, punitive and exemplary damages, and including but not limited to economic loss, business disruption, and/or attorney’s fees) arising from or in any way related to the Site, the Application and/or the Smart Contracts. You expressly waive all such claims against the Releases.
 

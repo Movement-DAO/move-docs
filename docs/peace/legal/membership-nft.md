@@ -8,21 +8,21 @@ We grant to you a non-exclusive, personal, limited license to display the digita
 
 We also grant to you a non-exclusive, personal, limited license to display the Digital Asset in connection with your personal, non-commercial use, provided that your use of the digital asset:
 
--   is not malicious, defamatory, harmful, trade libelous, obscene, indecent, abusive, offensive, threatening, harassing, violent, hateful,inflammatory, or otherwise objectionable or unlawful;
--   does not have the purpose or effect of creating an intimidating or hostile environment;
--   does not contain ethnic slurs or personal insults;
--   does not promote sexually explicit or pornographic material, violence, hatred, intolerance, cruelty, or discrimination;
--   does not promote any illegal activity or advocate, promote, or assist any unlawful act;
--   does not involve commercial activities or sales or advertising; does not invade, violate, or infringe any patent, trademark, service mark, trade secret, copyright, or other intellectual property or other right of any person;
--   is not combined or associated with any materials which violate these conditions.
+- is not malicious, defamatory, harmful, trade libelous, obscene, indecent, abusive, offensive, threatening, harassing, violent, hateful,inflammatory, or otherwise objectionable or unlawful;
+- does not have the purpose or effect of creating an intimidating or hostile environment;
+- does not contain ethnic slurs or personal insults;
+- does not promote sexually explicit or pornographic material, violence, hatred, intolerance, cruelty, or discrimination;
+- does not promote any illegal activity or advocate, promote, or assist any unlawful act;
+- does not involve commercial activities or sales or advertising; does not invade, violate, or infringe any patent, trademark, service mark, trade secret, copyright, or other intellectual property or other right of any person;
+- is not combined or associated with any materials which violate these conditions.
 
 We reserve all other rights in the Digital Asset. You do not have the right to
 
--   modify the Digital Asset;
--   incorporate the Digital Asset into any other work;
--   display the Digital Asset for non-personal purposed;
--   display the Digital Asset for commercial purposes;
--   sub-license your rights to a third party **without our express written authorization**.
+- modify the Digital Asset;
+- incorporate the Digital Asset into any other work;
+- display the Digital Asset for non-personal purposed;
+- display the Digital Asset for commercial purposes;
+- sub-license your rights to a third party **without our express written authorization**.
 
 **7. Intellectual Property**
 
@@ -32,6 +32,6 @@ We are not responsible for the activities, including infringing activities, of o
 
 You shall not:
 
--   seek trademark, copyright, or other intellectual property protection in any Digital Asset of PeaceDAO or Illustrator;
--   create any other non-fungible tokens based on any Digital Asset of PeaceDAO or Illustrator; or
--   create any derivative works based on any Digital Asset of PeaceDAO or Illustrator.
+- seek trademark, copyright, or other intellectual property protection in any Digital Asset of PeaceDAO or Illustrator;
+- create any other non-fungible tokens based on any Digital Asset of PeaceDAO or Illustrator; or
+- create any derivative works based on any Digital Asset of PeaceDAO or Illustrator.

@@ -21,26 +21,26 @@ Every Member must act and interact in ways that contribute to an open, welcoming
 
 **Examples of behavior that contributes to a positive environment for our Community include:**
 
--   Honesty.
--   Prioritizing education; learning by doing.
--   Demonstrating empathy and kindness.
--   Being respectful.
--   Giving and accepting feedback.
--   Accepting responsibility. Owning mistakes, and learning from them.
--   Focusing on what is best for the Community.
--   Stewards of the Community and its wishes.
+- Honesty.
+- Prioritizing education; learning by doing.
+- Demonstrating empathy and kindness.
+- Being respectful.
+- Giving and accepting feedback.
+- Accepting responsibility. Owning mistakes, and learning from them.
+- Focusing on what is best for the Community.
+- Stewards of the Community and its wishes.
 
 We are committed to Personal Integrity, Excellence, Teamwork, Inspiration to the Community Members. We are Responsible to our Community Members, Ourselves, Each Other, and to our Partners, Colleagues, and the Community we serve.
 
 **Examples of unacceptable behavior include:**
 
--   The use of sexualized language or imagery, and sexual attention or advances of any kind.
--   Trolling, insults, derogatory comments, and personal or political attacks.
--   Harassment.
--   Publishing others’ private information (NCC and/or [PII](https://www.gsa.gov/reference/gsa-privacy-program/rules-and-policies-protecting-pii-privacy-act)) without their explicit consent.
--   Giving any type of financial advice.
--   Other conduct which could reasonably be considered inappropriate in a professional setting.
--   Unauthorized use of the DAO's Cryptographic keys to sign any transaction which has not been ratified by the DAO's [governance process](/dao/governance/process).
+- The use of sexualized language or imagery, and sexual attention or advances of any kind.
+- Trolling, insults, derogatory comments, and personal or political attacks.
+- Harassment.
+- Publishing others’ private information (NCC and/or [PII](https://www.gsa.gov/reference/gsa-privacy-program/rules-and-policies-protecting-pii-privacy-act)) without their explicit consent.
+- Giving any type of financial advice.
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
+- Unauthorized use of the DAO's Cryptographic keys to sign any transaction which has not been ratified by the DAO's [governance process](/dao/governance/process).
 
 ## Community Enforcement Guidelines.
 
