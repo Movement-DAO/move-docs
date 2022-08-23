@@ -16,7 +16,7 @@ As of August 14, 2022, under 100 [unique externally owned addresses (EOA)](https
 
 2. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2]; and,
 1. the DAO shall bootstrap a community of contributors and developers to develop DAO tooling to enable maintaining communities;
-1. shall value the privacy and work product of its members;
+1. shall value the privacy and work product of its Members;
 1. shall recommend a structure to ensure compliance to applicable laws and regulations;
 1. must implement accounting and governance prior to consistent access to capital; and,
 1. shall not have any [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) regarding any governance process.
@@ -47,7 +47,7 @@ A [Governance NFT](https://etherscan.io/address/0xdd407a053fa45172079916431d06E8
 
 ### Treasury Oversight
 
-As of August 2022, the DAO's [Gnosis Safe](/peace/governance/multisig) has not yet implemented any significant asset diversification strategies. The DAO should appoint a treasury committee in which individuals with prior experience managing at least $1,000,000 worth of cryptocurrency over an extended length of time (either individually or through Multi-sig wallets) can make written recommendations to the DAO. Community/contributor recommendations endorsed by committee members should also be considered.
+As of August 2022, the DAO's [Gnosis Safe](/peace/governance/multisig) has not yet implemented any significant asset diversification strategies. The DAO should appoint a treasury committee in which individuals with prior experience managing at least $1,000,000 worth of cryptocurrency over an extended length of time (either individually or through Multi-sig wallets) can make written recommendations to the DAO. Community/contributor recommendations endorsed by committee Members should also be considered.
 
 _See [Governance MIP-001](https://snapshot.org/#/movedao.eth/proposal/0x5494278f1f52faed8f2a0d61f0909d81d92364fa871a2b9183a61ce179bc7671) ([IPFS](https://snapshot.mypinata.cloud/ipfs/QmRDyENgBHSDNr3YuoGhS3yvnyzNfumtxoKm39h8NsD9Jn))._
 

@@ -13,7 +13,7 @@ Ratify the [Peace DAO Guiding Principles](https://gov.move.xyz/peace/legal/guidi
 
 Peace DAO was founded during an emergency, and has not yet ratified clear legal documents. These documents will provide greater legal and operational clarity to the DAO, mitigating existential risks to the DAO.
 
-These documents will also clarify the roles and expectations of members and contributors to the DAO, improving the DAO's clarity and transparency.
+These documents will also clarify the roles and expectations of Members and contributors to the DAO, improving the DAO's clarity and transparency.
 
 ## Specification
 
@@ -27,7 +27,7 @@ Ratifying the Guiding Principles will establish an Unincorporated Nonprofit Asso
 
 - Limit contributor liability.
 - Allow the DAO to create bank accounts, hold property, and enter agreements.
-- Clarify membership and the DAO's internal processes.
+- Clarify Membership and the DAO's internal processes.
 - Improve Peace DAO's Legal Compliance.
 - Clarify the ways Peace DAO can use intellectual property.
 

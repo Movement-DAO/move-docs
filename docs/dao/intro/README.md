@@ -45,7 +45,7 @@ While also:
 - supporting JuiceboxDAO and the Juicebox protocol's community;
 - enabling and fostering public goods and community-focused projects;
 - developing sustainable public/private good community models; and,
-- developing a sustainable endowment fund for member projects and Core Contributors.
+- developing a sustainable endowment fund for Member projects and Core Contributors.
 
 The DAO enables treasury creators to create and deploy tightly integrated Crypto-native products, thereby providing rich, sustainable opportunities for treasuries (and contributions to those treasuries) to thrive and scale. The DAO also oversees and manages the DAO's Endowment which funds the DAO's applications, manages the DAO's endowment capital, and provides ecosystem grants as proposed by the DAO's contributors.[^3]
 

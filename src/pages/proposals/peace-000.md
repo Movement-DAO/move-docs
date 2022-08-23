@@ -32,12 +32,12 @@ The Governance Process:
 The Multisig Process:
 
 - is also simple and easy to understand, leading to similar benefits.
-- has safety mechanisms in place (the dao-lawfirm.eth removal) but does not overly centralize execution. New members must be added through standard governance processes.
+- has safety mechanisms in place (the dao-lawfirm.eth removal) but does not overly centralize execution. New Members must be added through standard governance processes.
 
 ## Risks
 
-- These processes rely on sound distribution of tokens and NFTs, as well as sound multisig membership.
-- Poor decision making, malicious behaviour, or bias from the multisig could prove disastrous. Multisig membership should expand over time.
+- These processes rely on sound distribution of tokens and NFTs, as well as sound multisig Membership.
+- Poor decision making, malicious behaviour, or bias from the multisig could prove disastrous. Multisig Membership should expand over time.
 - This government process is more rigid than the DAO's current processes. Although this will improve transparancy, it may make the DAO less flexible in urgent situations.
 - The process has high thresholds, meaning only well-liked proposals will pass.
 - The process inherits risks of democracy.

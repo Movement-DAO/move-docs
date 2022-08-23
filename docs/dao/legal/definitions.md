@@ -77,7 +77,7 @@ sidebar_position: 3
 
 **"Gas"** A virtual fuel used in Ethereum to execute smart contracts. The EVM (i.e. the Ethereum Virtual Machine) uses an accounting mechanism to measure the consumption of gas and limit the consumption of computing resources (see Turing complete).
 
-**"Governing Principles"** refers to the agreements, whether oral, in a record, or implied from established practices, or in any combination thereof, which govern the purpose or operation of an unincorporated nonprofit association and the rights and obligations of its members and managers. The term includes any amendment or restatement of the agreements constituting the Governing Principles.
+**"Governing Principles"** refers to the agreements, whether oral, in a record, or implied from established practices, or in any combination thereof, which govern the purpose or operation of an unincorporated nonprofit association and the rights and obligations of its Members and managers. The term includes any amendment or restatement of the agreements constituting the Governing Principles.
 
 **"Governance Rights"** are the entire interest of a Member in the DAO, as measured by a Member's Tokens, including, without limitation, all rights and obligations contemplated or agreed to under this Agreement, and any right to vote on, consent to, or otherwise participate in any decision or action of or by the Members granted by this Agreement or the Act. Member's Governance Rights are subject to [DAO Governance](/dao/governance/process).
 
@@ -113,7 +113,7 @@ sidebar_position: 3
 >
 > **(v)** the Designated Smart Contract, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits the Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute.
 
-**"Member"** means each Person entering into this Agreement as a member or subsequently admitted as a member pursuant to the terms of this Agreement, but does not include any Person that has ceased to be a Member of the DAO. If at any time there is only one Member, then all references to "Members" shall be deemed to mean "Member."
+**"Member"** means each Person entering into this Agreement as a Member or subsequently admitted as a Member pursuant to the terms of this Agreement, but does not include any Person that has ceased to be a Member of the DAO. If at any time there is only one Member, then all references to "Members" shall be deemed to mean "Member."
 
 **A "Multi-Signature Wallet"** is a smart contract wallet on the Designated Blockchain Network that requires a minimum number of people to approve a transaction before it can occur (M-of-N).
 
@@ -145,7 +145,7 @@ sidebar_position: 3
 
 **"Redemption Rate", "Redemption Curve", or "Bonding Curve"** refers to a bonding curve along which Juicebox Protocol calculates redemption from a Treasury. The Redemption Rate can be configured by a Project Owner each funding cycle. A rate of 100% suggests a linear proportion, meaning X% of treasury overflow can be reclaimed by redeeming X% of the token supply.
 
-**"Representative"** means a member, manager, officer, director, partner, employee, or agent.
+**"Representative"** means a Member, manager, officer, director, partner, employee, or agent.
 
 **"Reserved Rate" or "Reserved Tokens"** refers to the percentage of newly minted tokens that a project wishes to withhold for custom distributions. The Project Owner can pre-program a list of addresses, other Projects, and contracts that adhere to [`IJBSplitAllocator`](https://info.juicebox.money/dev/api/interfaces/ijbsplitallocator) to split reserved tokens between.
 
@@ -183,7 +183,7 @@ sidebar_position: 3
 
 **"Total Value Lock" or "TVL"** refers to the total value locked into a Smart Contract or set of Smart Contracts that may be deployed or stored at one or more exchanges or markets. This is used as a measurement of investor deposits. It is the dollar value of all the coins or tokens locked into a platform, protocol, lending program, yield farming program, or insurance liquidity pool.
 
-**"Unincorporated Nonprofit Association"** means an unincorporated organization consisting of _two_ or more members joined under an agreement that is oral, in a record, or implied from conduct, for one or more common, nonprofit purposes. The term does not include:
+**"Unincorporated Nonprofit Association"** means an unincorporated organization consisting of _two_ or more Members joined under an agreement that is oral, in a record, or implied from conduct, for one or more common, nonprofit purposes. The term does not include:
 
 > (a) a trust;
 > (b) a marriage, domestic partnership, common law domestic relationship, civil union, or other domestic living arrangement;
@@ -197,6 +197,6 @@ sidebar_position: 3
 
 **"Web3"** is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.
 
-**"Web3 tools":** The key characteristics of Web3 tools may include personal assistance learning, artificial intelligence, multimedia information, interoperability, and semantic nature. Tools used for the governance, tokenization, membership, voting and operation of a DAO.
+**"Web3 tools":** The key characteristics of Web3 tools may include personal assistance learning, artificial intelligence, multimedia information, interoperability, and semantic nature. Tools used for the governance, tokenization, Membership, voting and operation of a DAO.
 
 **"Yield farming"** is the practice of staking or lending crypto assets in order to generate returns or rewards in the form of additional cryptocurrency. This application of decentralized finance (DeFi) has skyrocketed in popularity recently thanks to innovations like liquidity mining. In short, yield farming protocols incentivize liquidity providers (LP) to stake or lock up their crypto assets in a smart contract-based liquidity pool. These incentives can be a percentage of transaction fees, interest from lenders, or a governance token (see liquidity mining). These returns are expressed as an annual percentage yield (APY). As more investors add funds to the related liquidity pool, the value of the issued returns decrease accordingly.
