@@ -66,11 +66,7 @@ The DAO provides access to a DAPP, a decentralized finance application, (**“Ap
 
 Using the DAO protocol may require that you pay a fee, such as gas fees on the Ethereum network, to perform a transaction. You acknowledge and agree that the DAO has no control over any transactions among Users over the DAO’s protocol, or the method of payment of any such transactions or any actual payments of such transactions. Accordingly, you must ensure that you have a sufficient balance of the applicable cryptocurrency tokens stored at your DAO protocol-compatible wallet address (**“Cryptocurrency Wallet”**) to complete any such transaction on the DAO protocol or the Ethereum network before initiating such a transaction.
 
-### 7. Qualified Code Deference.
-
-_This section is intentionally blank._
-
-### 8. Access to the DAO Application.
+### 7. Access to the DAO Application.
 
 Access to the Site is provided on an “AS IS” and “as available” basis only. We do not guarantee that the Site, or any content on it, will always be available or uninterrupted. From time to time, access may be interrupted, suspended, or restricted, including because of a fault, an error, or unforeseen circumstances, or because we are carrying out planned maintenance. With regards to the Sites; We reserve the right to limit the availability of the Site to any person, geographic area or jurisdiction we so desire and/or to terminate your access to and use of the Site, at any time and in our sole and absolute discretion. We may remove or amend the content of the Site at any time. Some of the Site content may be out of date at any given time and we are under no obligation to update it. We do not guarantee that the Site, or any content on it, will be free from errors or omissions.
 
@@ -120,7 +116,7 @@ You acknowledge that the DAO has no obligation to pre-screen Content (including,
 
 **Export control.** You may not use, export, import, or transfer the DAO DAPP except as authorized under U.S. law and the laws of the jurisdiction in which you obtained the DAO property (DAPP or Site), and any other applicable laws. In particular, but without limitation, the DAO properties may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce’s Denied Person’s List or Entity List. By using the DAO DAPP, you represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties. You also will not use the DAO DAPP for any purpose prohibited by U.S. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons. You acknowledge and agree that products, services or technology provided by the DAO are subject to the export control laws and regulations of the United States. You shall comply with these laws and regulations and shall not, without prior U.S. government authorization, export, re-export, or transfer DAO DAPP products, services or technology, either directly or indirectly, to any country in violation of such laws and regulations.
 
-### 9. Securities Law Matters.
+### 8. Securities Law Matters.
 
 ANY GOVERNANCE TOKENS RECEIVED BY MEMBERS HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE UNITED STATES SECURITIES AND EXCHANGE COMMISSION, ANY STATE SECURITIES COMMISSION, OR OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON THE MERITS OF THIS OFFERING OR UPON THE ACCURACY OR ADEQUACY OF THIS AGREEMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OR SOLICITATION TO ANYONE IN ANY JURISDICTION IN WHICH SUCH OFFER OR SOLICITATION IS NOT AUTHORIZED.
 
@@ -130,15 +126,15 @@ ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SE
 
 The information contained on the DAO Properties is not an invitation or solicitation to invest in or purchase any cryptocurrency or NFTs or to invest in the shares or other products or services or otherwise deal in these or enter into a contract with the DAO, any cryptocurrency marketplace or any other company. The information provided herein should not be relied upon in connection with any investment decision. No reliance should be placed on any statements, rankings or ratings on the DAO Properties, whether for investment purposes or otherwise.
 
-### 10. OFAC Compliance.
+### 9. OFAC Compliance.
 
 The U.S. Department of Treasury, through the Office of Foreign Assets Control (“OFAC”), prohibits U.S. companies from engaging in all or certain commercial activities with certain sanctioned countries (each a “Sanctioned Country”) and certain individuals, organizations, or entities, including, without limitation, certain “Specially Designated Nationals” (“SDN”) listed by OFAC. **If you use the Site, you expressly represent that you are not located in a Sanctioned Country and are not listed as an SDN. If the DAO determines that the Site is being used by prohibited persons, it will take any and all actions to terminate that User’s access to the Site.**
 
-### 11. Third Party Links.
+### 10. Third Party Links.
 
 The Site may contain hyperlinks or references to third party websites. Any such hyperlinks or references are provided for your information and convenience only. We have no control over third party websites and accept no legal responsibility for any content, material, or information contained in them. The display of any hyperlink and reference to any third-party website does not mean that we endorse that third party's website, products, or services. Your use of a third-party site may be governed by the terms and conditions of that third-party site.
 
-### 12. Privacy Policy.
+### 11. Privacy Policy.
 
 Certain areas of the Site or Application, including any and all interactions with the Ethereum blockchain, record your Cryptocurrency address and details of the transactions you authorize. You understand that transactions, including parties you transact with, specific Cryptocurrency Assets you hold, including unique ENS domain NFTs, third-party NFTs, the Cryptocurrency address, metadata associated with any Smart Contract such as the executing function, its arguments (or parameters) will contain in aggregate information which _may_ identify you personally.
 
@@ -150,7 +146,7 @@ Additionally, the Sites may employ Fathom Analytics for website traffic analytic
 
 The purpose of the DAO potentially using Fathom Analytics is to understand the Application website traffic in the most privacy-friendly way possible so that the DAO can continually improve the Application. The lawful basis as per the GDPR is "Article 6(1)(f); where our legitimate interests are to improve our website and business continually." Additionally, the DAO and its contributors have no interest in collecting this information.
 
-### 13. Disclaimers; Limitation of Liability.
+### 12. Disclaimers; Limitation of Liability.
 
 YOU EXPRESSLY AGREE THAT ACCESS TO AND USE OF THE SITE IS AT YOUR SOLE RISK AND IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE (EXCEPT ONLY TO THE EXTENT PROHIBITED UNDER THE LAWS APPLICABLE TO TERMS OF SERVICE WITH ANY LEGALLY REQUIRED WARRANTY PERIOD TO THE SHORTER OF THIRTY DAYS FROM FIRST USE OR THE MINIMUM PERIOD REQUIRED). WITHOUT LIMITING THE FOREGOING, NEITHER THE DAO NOR ITS AFFILIATES OR SUBSIDIARIES, OR ANY OF THEIR DIRECTORS, OFFICERS, EMPLOYEES, CONTRACTORS, AGENTS, ATTORNEYS, THIRD-PARTY PROVIDERS, DISTRIBUTORS, LICENSEES, LICENSORS, SUCCESSORS, OR ASSIGNS (COLLECTIVELY, “DAO PARTIES”) WARRANT THAT THE SITE WILL BE UNINTERRUPTED, BUG-FREE, OR ERROR-FREE, AND NONE OF THE DAO PARTIES WARRANT THAT SMART CONTRACTS ARE MERCHANTABLE, FIT FOR ANY PARTICULAR PURPOSE, AND/OR RECOGNIZED BY ANY PARTICULAR JURISDICTION(S).
 
@@ -172,11 +168,11 @@ You may only participate with Smart Contracts on the Site by linking your Crypto
 
 ALL TRANSACTIONS INITIATED THROUGH OUR SERVICE ARE FACILITATED AND RUN BY THIRD-PARTY ELECTRONIC WALLET EXTENSIONS, AND BY USING OUR SERVICES YOU AGREE THAT YOU ARE GOVERNED BY THE TERMS OF SERVICE AND PRIVACY POLICY FOR THE APPLICABLE EXTENSIONS. FOR METAMASK, THOSE TERMS ARE AVAILABLE AT [https://metamask.io/terms.html](https://metamask.io/terms.html) AND [https://metamask.io/privacy.html](https://metamask.io/privacy.html).
 
-### 14. Indemnification.
+### 13. Indemnification.
 
 You agree to indemnify and hold the DAO and its parents, subsidiaries, affiliates, officers, employees, agents, partners, suppliers, and licensors (each, a “DAO Party” and collectively, the “DAO Parties”) harmless from any losses, costs, liabilities, and expenses (including reasonable attorneys’ fees) relating to or arising out of any and all of the following: (a) Your Content; (b) your use of, or inability to use, any DAO Property; (c) your violation of the Agreement; (d) your violation of any rights of another party, including any Registered Users; or (e) your violation of any applicable laws, rules, or regulations. The DAO reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with the DAO in asserting any available defenses. This provision does not require you to indemnify any of the DAO Parties for any unconscionable commercial practice by such party or for such party’s fraud, deception, false promise, misrepresentation, or concealment, or suppression or omission of any material fact in connection with the Website or any Services provided hereunder. You agree that the provisions in this section will survive any termination of your Account, the Agreement, and/or your access to the DAO Properties.
 
-### 15. Arbitration.
+### 14. Arbitration.
 
 **Informal Negotiations.** To expedite resolution and control the cost of any dispute, controversy or claim arising under or related to your account, the DAO protocol or Application, the Site, these Terms, or any other transaction involving you and the DAO, whether in contract, warranty, misrepresentation, fraud, tort, intentional tort, statute, regulation, ordinance, or any other legal or equitable basis (or the breach, termination, enforcement, interpretation or validity thereof) (**“Dispute”**), you and the DAO agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least ninety (90) days before initiating any arbitration. Such informal negotiations commence upon written notice from one person to the other. You should send your notice in an appropriate Discord channel via [https://discord.gg/movexyz](https://discord.gg/movexyz) or via a message on [https://chat.blockscan.com](https://chat.blockscan.com) addressed to the DAO Gnosis multi-signature address 0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6 (**"Notice Address"**). The DAO will send its notice to you by the Discord handle provided by you in connection with the aforementioned notice or to the Cryptographic address used in connection with the Application via the aforementioned https://chat.blockscan.com/.
 
@@ -196,11 +192,11 @@ Any election to arbitrate by one party shall be final and binding on the other, 
 
 **Release.** You hereby release the DAO, affiliates, Service Provider, and their successors from claims, demands, any and all losses, damages, rights, and actions of any kind, including personal injuries, death, and property damage, that is either directly or indirectly related to or arises from your use of the DAO DAPP, including but not limited to, any use of any information, ratings, rankings, scores, tips, or advice Made Available via the DAO DAPP and any reliance thereon, of any kind arising in connection with or as a result of the Agreement or your use of the DAO DAPP. If you are a California resident, you hereby waive California Civil Code Section 1542, which states, “A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.” The foregoing release does not apply to any claims, demands, or any losses, damages, rights, and actions of any kind, including personal injuries, death, or property damage for any unconscionable commercial practice by a DAO Party or for such party’s fraud, deception, falsehood, promise, misrepresentation, or concealment, suppression, or omission of any material fact in connection with the DAPP or the DAO Site or any Services provided hereunder.
 
-### 16. Governing Law.
+### 15. Governing Law.
 
 These Terms and all aspects of your use of the Site shall be governed by and construed in accordance with the internal laws of the _United States and the State of Delaware_ governing contracts entered into and to be fully performed in _Delaware_ (i.e., without regard to conflict of law’s provisions) regardless of your location except that the Arbitration section above shall be governed by the Federal Arbitration Act. For the purpose of any judicial proceeding to enforce an arbitration award or incidental to such arbitration or to compel arbitration, or if for any reason a claim proceeds in court rather than in arbitration, you hereby submit to the non-exclusive jurisdiction of the state and Federal courts sitting in _Georgetown, Delaware_, and agree that service of process in such arbitration or court proceedings shall be satisfactorily made upon a party if sent by certified, express or registered mail addressed to it at the address set forth in the books and records of the DAO, or if no such address has been provided, by email to the email address, or by notice via Discord, or by the aforementioned chat to the Notice Address provided by the relevant party to the DAO in connection with its use of the Site. With respect to any Disputes not subject to informal dispute resolution or arbitration (as set forth above), you agree not to commence or prosecute any action in connection therewith other than in the state and Federal courts located in _Georgetown, Delaware_, and you hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to, venue and jurisdiction in the state and Federal courts located in _Georgetown, Delaware_. To the extent non-U.S. laws mandate a different approach with respect to governing law, venue, statute of limitation, and dispute resolution method with respect to certain non-U.S. persons, each such required standard shall be applied, but all other provisions under this section shall remain in full force.
 
-### 17. General.
+### 16. General.
 
 If any clause or part of any clause of these Terms is found to be void, unenforceable or invalid, then it will be severed from these Terms, leaving the remainder in full force and effect, provided that the severance has not altered the basic nature of these Terms.
 
@@ -214,7 +210,7 @@ All disclaimers, indemnities and exclusions in these Terms shall survive termina
 
 These Terms and the documents referred to in them set out the entire agreement between you and us with respect to your use of the Site, the DAO and the services provided via the Site and supersede any and all prior or contemporaneous representations, communications or agreements (written or oral) made between you or us.
 
-### 18. Contacting Us.
+### 17. Contacting Us.
 
 Should you have any question about these Terms, or wish to contact us for any reason whatsoever, please do so by sending a message to the DAO's Discord public channels, or by sending a message via https://chat.blockscan.com/ addressed to the Notice Address eth:0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6, which has been provided for convenience, or to the above referenced Service Provider notice address.
 
