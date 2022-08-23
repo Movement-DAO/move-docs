@@ -11,7 +11,7 @@ The Multi-sig Signers (the "Signers") are responsible for custody of the treasur
 
 Signers must agree to abide by the following principles:
 
-1. To act in accordance with the will of the DAO, as expressed through the DAO's [governance process](process).
+1. To act in accordance with the will of the DAO, as expressed through the DAO's [governance process](https://gov.move.xyz/dao/governance/process).
 2. To maintain a Multi-sig Safe threshold equal to or greater than 60 percent of the number of Signers.
 3. To execute all Multi-sig transactions in accordance with the DAO governance process.
 

@@ -1,13 +1,10 @@
----
-title: 🚴 Guiding Principles
-sidebar_position: 1
----
+# Guiding Principles
 
 _The following Guiding Principles are provided to set forth the terms of Membership, governance, and agreement between Members of the DAO. The "DAO" refers to Movement DAO, Move DAO, its affiliates DAOLABS, non-profit and for-profit organizations, and individuals involved initially as its Members, developers, and operators of any associated traditional software, web services, Multi-signature wallets, or Ethereum Cryptographic Smart Contracts._
 
 ## Definitions.
 
-- The [definitions](definitions) section of the associated document is included in its entirety herein. Any terms which are defined herein supersede any definition contained in the associated document.
+- The [definitions](https://gov.move.xyz//dao/legal/definitions) section of the associated document is included in its entirety herein. Any terms which are defined herein supersede any definition contained in the associated document.
 - **"Service Provider"** means the Person or Persons appointed by the DAO to perform administrative services, responsibilities, and duties to carry on the DAO's operations. The initial Service Provider shall be [dao-lawfirm.eth](https://etherscan.io/address/0x752515a3a1091b9f1c04416cf79d1f14d2340085), including its predecessor entities, any future entity of [dao-lawfirm.eth](https://etherscan.io/address/0x752515a3a1091b9f1c04416cf79d1f14d2340085), and [dao-lawfirm.xyz](https://dao-lawfirm.xyz), and their vendors, consultants, and affiliates, as well as dao-lawfirm.eth's affiliates Meows, LLC. and tankbottoms.eth, and their vendors, consultants, and affiliates. For the purpose of any electronic communications (including notice) the following addresses: [0x752515a3A1091b9f1c04416CF79D1F14d2340085@ethmail.cc](0x752515a3A1091b9f1c04416CF79D1F14d2340085@ethmail.cc) and [0x5d95baEBB8412AD827287240A5c281E3bB30d27E@ethmail.cc](0x5d95baEBB8412AD827287240A5c281E3bB30d27E@ethmail.cc) are sufficient.
 
 ---
@@ -20,7 +17,7 @@ The following terms apply when you click to view or access DAO's Dapp, DAO's onl
 
 **By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use the DAO Dapp or online services.**
 
-Capitalized terms used herein have the meanings ascribed to them in the [Definitions](definitions). Any terms which are defined herein supersede any definition contained in the associated document.
+Capitalized terms used herein have the meanings ascribed to them in the [Definitions](https://gov.move.xyz/dao/legal/definitions). Any terms which are defined herein supersede any definition contained in the associated document.
 
 ---
 
@@ -28,7 +25,7 @@ Capitalized terms used herein have the meanings ascribed to them in the [Definit
 
 **(a) Formation.** The DAO was formed on _February 1, 2022._ The obligations of Members of the DAO shall be determined pursuant to the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916 inclusive (the "Act"), and this Agreement.
 
-**(b) Purpose.** The primary purpose of the DAO is to develop programmable, community-focused Ethereum (**"Cryptocurrency"**) treasury applications which can operate openly on the blockchain at any scale. The DAO additionally develops tooling to interact with existing financial infrastructure (including fiat), digital asset creation (e.g. NFTs), and marketplace applications to enable communities to participate in any type of lawful activity native to or related to Cryptocurrency. The purpose of the DAO is scoped to non-profit and charitable purposes and purposes outside of this scope are not permitted. The companion [purpose](/dao/#purpose) section of this document is included in its entirety herein. Any terms which are contained herein supersede any definition contained in the associated document.
+**(b) Purpose.** The primary purpose of the DAO is to develop programmable, community-focused Ethereum (**"Cryptocurrency"**) treasury applications which can operate openly on the blockchain at any scale. The DAO additionally develops tooling to interact with existing financial infrastructure (including fiat), digital asset creation (e.g. NFTs), and marketplace applications to enable communities to participate in any type of lawful activity native to or related to Cryptocurrency. The purpose of the DAO is scoped to non-profit and charitable purposes and purposes outside of this scope are not permitted. The companion [purpose](https://gov.move.xyz/dao#purpose) section of this document is included in its entirety herein. Any terms which are contained herein supersede any definition contained in the associated document.
 
 The DAO is an unincorporated association of individuals, corporations, statutory trusts, business trusts, estates, trusts, partnerships, limited liability companies, associations, joint ventures, and other legal or commercial entities, many of whom, if not all of whom, agree to join together for a common, nonprofit purpose. For the DAO, that purpose is encapsulated in its mission statement.
 
@@ -36,7 +33,7 @@ The DAO is an unincorporated association of individuals, corporations, statutory
 
 ## 2. Membership; Governance Rights and Tokens; Limitations.
 
-**(a) Governance Rights.** Governance Rights in the DAO are represented by Project Tokens, with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time. Member's Governance Rights are subject to [DAO Governance](/dao/governance/process).
+**(a) Governance Rights.** Governance Rights in the DAO are represented by Project Tokens, with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time. Member's Governance Rights are subject to [DAO Governance](https://gov.move.xyz/dao/governance/process).
 
 **(b) Tokens.** As of the date hereof, there shall be an allowance of up to the max of 2(<sup>256-1</sup>)[^1] tokens authorized to represent Membership interests in the DAO, unless otherwise agreed to by the Members via a vote occurring through the Dapp. Membership in the DAO, as defined by Del. Code Ann. Tit. 6, § 1901, shall be voluntary and open to any individual whose purpose or presumed intent is to contribute to the DAO and is willing to accept responsibilities and terms of Membership. The DAO shall grant the initial Member's governance voting tokens proportional to contributions to the DAO's Gnosis Multi-signature wallet.[^2]
 
@@ -66,9 +63,12 @@ If you have received any Tokens or are otherwise a Member, you consent and agree
 
 **(i) Information Rights.** Members shall have access to all information concerning operational and financial affairs of the DAO via
 
-- **The Gnosis Multi-Signature Wallet** [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6),
-- **Etherscan and other Ethereum Block Explorers** `https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`, and
-- **Snapshot** `https://snapshot.org/#/movedao.eth`.
+- **The Gnosis Multi-Signature Wallet**
+  - [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6),
+- **Etherscan and other Ethereum Block Explorers** 
+  - `https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`, and
+- **Snapshot**
+  - `https://snapshot.org/#/movedao.eth`.
 
 Otherwise, the DAO is not entitled to keep any records concerning legal, accounting, or other affairs, and aside from the above public information, the DAO shall not be required to maintain any additional records. Notwithstanding the foregoing, the DAO may engage with third parties to provide legal structures, accounting, and records in order to comply with any legal obligations.
 
@@ -112,9 +112,9 @@ Otherwise, the DAO is not entitled to keep any records concerning legal, account
 
 **(b) Compulsory Withdrawal.** Not in limitation of Section 6(a), the Members acting by vote via the Dapp may cause a Member to be compulsorily withdrawn from the DAO to the extent that such Members, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including without limitation to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members. For the avoidance of doubt–the Member proposed to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding that Members' compulsory withdrawal.
 
-**(c) Emergency Immediate Compulsory Withdrawal For Cause.** Not in limitation of Section 6(a), 6(b), the Service Provider, in their reasonable discretion, is expressly authorized to remove a Member without notice or vote of the Members if the Service Provider determines such a removal to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO. For the avoidance of doubt–the Member to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding such compulsory withdrawal, unless the Member is deemed to be in violation of the [Code of Conduct](/dao/resources/code-of-conduct) and [Community Enforcement Guidelines](/dao/resources/code-of-conduct#community-enforcement-guidelines).
+**(c) Emergency Immediate Compulsory Withdrawal For Cause.** Not in limitation of Section 6(a), 6(b), the Service Provider, in their reasonable discretion, is expressly authorized to remove a Member without notice or vote of the Members if the Service Provider determines such a removal to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO. For the avoidance of doubt–the Member to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding such compulsory withdrawal, unless the Member is deemed to be in violation of the [Code of Conduct](https://gov.move.xyz/dao/resources/code-of-conduct) and [Community Enforcement Guidelines](https://gov.move.xyz/dao/resources/code-of-conduct#community-enforcement-guidelines).
 
-**(d) Non-Disparagement** Not in limitation of Section 6(a), 6(b), 6(c) and 6(d). During the term of the DAO Membership, and thereafter, the Member shall not make any disparaging remarks, or any remarks that could reasonably be construed as disparaging regarding the DAO, its Members, its affiliates, or its agents. The DAO shall, except to the extent otherwise required by applicable laws, rules, or regulations, or as appropriate in the exercise of the [Community Enforcement Guidelines](/dao/resources/code-of-conduct#community-enforcement-guidelines) and the [Terms of Service](/dao/legal/tos), exercise reasonable efforts to cause the following individual(s) to refrain from making any disparaging statements, orally or in writing, regarding the DAO, its Members, or agents during and after the Membership period.
+**(d) Non-Disparagement** Not in limitation of Section 6(a), 6(b), 6(c) and 6(d). During the term of the DAO Membership, and thereafter, the Member shall not make any disparaging remarks, or any remarks that could reasonably be construed as disparaging regarding the DAO, its Members, its affiliates, or its agents. The DAO shall, except to the extent otherwise required by applicable laws, rules, or regulations, or as appropriate in the exercise of the [Community Enforcement Guidelines](https://gov.move.xyz/dao/resources/code-of-conduct#community-enforcement-guidelines) and the [Terms of Service](https://gov.move.xyz/dao/legal/tos), exercise reasonable efforts to cause the following individual(s) to refrain from making any disparaging statements, orally or in writing, regarding the DAO, its Members, or agents during and after the Membership period.
 
 ## 7. Fees and Expenses.
 

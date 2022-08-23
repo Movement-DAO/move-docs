@@ -87,19 +87,19 @@ These processes should be implemented once this proposal is ratified, only to be
 
 **FURTHER RESOLVED:** All actions by the Service Providers from January 1, 2022 have been duly presented to the Members in their entirety by way of the Ethereum address records below. The DAO, by its Members ratify and affirm all actions by the Service Providers.
 
-| Id. |                    ENS                     |                                                       ETH Address                                                       |
-| :-: | :----------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-|  1  |           developer.movedao.eth            | [`0x2187e6a7c765777d50213346F0Fe519fCA706fbD`](https://etherscan.io/address/0x2187e6a7c765777d50213346F0Fe519fCA706fbD) |
-|  2  |             peace.movedao.eth              | [`0xD2427c0e44D28Ea74c0504E072c6073d135569B2`](https://etherscan.io/address/0xD2427c0e44D28Ea74c0504E072c6073d135569B2) |
-|  3  |           gnosis.dao-lawfirm.eth           | [`0x607d56643673649bd25AA47325A7a6AFeffc3B4a`](https://etherscan.io/address/0x607d56643673649bd25AA47325A7a6AFeffc3B4a) |
-|  4  | 0x46D65c64E883f70371A6fcAcB124FB5dd68c9918 | [`0x46D65c64E883f70371A6fcAcB124FB5dd68c9918`](https://etherscan.io/address/0x46D65c64E883f70371A6fcAcB124FB5dd68c9918) |
-|  5  | 0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6 | [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan/io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) |
-|  6  | 0x1932494517F20EB03D652BfDCbABb42018337436 | [`0x1932494517F20EB03D652BfDCbABb42018337436`](https://etherscan.io/address/0x1932494517F20EB03D652BfDCbABb42018337436) |
-|  7  | 0x41e923B875aF2Cc72772747E9ef2ed55c8df9D42 | [`0x41e923B875aF2Cc72772747E9ef2ed55c8df9D42`](https://etherscan.io/address/0x41e923B875aF2Cc72772747E9ef2ed55c8df9D42) |
-|  8  | 0x8C00f41676Ce4670ae9FcBBF297a24736dc23cc3 | [`0x8C00f41676Ce4670ae9FcBBF297a24736dc23cc3`](https://etherscan.io/address/0x8C00f41676Ce4670ae9FcBBF297a24736dc23cc3) |
-|  9  | 0x8a97426C1a720a45B8d69E974631f01f1168232B | [`0x8a97426C1a720a45B8d69E974631f01f1168232B`](https://etherscan.io/address/0x8a97426C1a720a45B8d69E974631f01f1168232B) |
-| 10  |              dao-lawfirm.eth               | [`0x30670D81E487c80b9EDc54370e6EaF943B6EAB39`](https://etherscan.io/address/0x30670D81E487c80b9EDc54370e6EaF943B6EAB39) |
-| 11  |              tankbottoms.eth               | [`0x5d95baEBB8412AD827287240A5c281E3bB30d27E`](https://etherscan.io/address/0x5d95baEBB8412AD827287240A5c281E3bB30d27E) |
+|                    ENS                     |                                                       ETH Address                                                       |
+| :----------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+|           developer.movedao.eth            | [`0x2187e6a7c765777d50213346F0Fe519fCA706fbD`](https://etherscan.io/address/0x2187e6a7c765777d50213346F0Fe519fCA706fbD) |
+|             peace.movedao.eth              | [`0xD2427c0e44D28Ea74c0504E072c6073d135569B2`](https://etherscan.io/address/0xD2427c0e44D28Ea74c0504E072c6073d135569B2) |
+|           gnosis.dao-lawfirm.eth           | [`0x607d56643673649bd25AA47325A7a6AFeffc3B4a`](https://etherscan.io/address/0x607d56643673649bd25AA47325A7a6AFeffc3B4a) |
+| - | [`0x46D65c64E883f70371A6fcAcB124FB5dd68c9918`](https://etherscan.io/address/0x46D65c64E883f70371A6fcAcB124FB5dd68c9918) |
+| - | [`0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6`](https://etherscan/io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) |
+| - | [`0x1932494517F20EB03D652BfDCbABb42018337436`](https://etherscan.io/address/0x1932494517F20EB03D652BfDCbABb42018337436) |
+| - | [`0x41e923B875aF2Cc72772747E9ef2ed55c8df9D42`](https://etherscan.io/address/0x41e923B875aF2Cc72772747E9ef2ed55c8df9D42) |
+| - | [`0x8C00f41676Ce4670ae9FcBBF297a24736dc23cc3`](https://etherscan.io/address/0x8C00f41676Ce4670ae9FcBBF297a24736dc23cc3) |
+| - | [`0x8a97426C1a720a45B8d69E974631f01f1168232B`](https://etherscan.io/address/0x8a97426C1a720a45B8d69E974631f01f1168232B) |
+|              dao-lawfirm.eth               | [`0x30670D81E487c80b9EDc54370e6EaF943B6EAB39`](https://etherscan.io/address/0x30670D81E487c80b9EDc54370e6EaF943B6EAB39) |
+|              tankbottoms.eth               | [`0x5d95baEBB8412AD827287240A5c281E3bB30d27E`](https://etherscan.io/address/0x5d95baEBB8412AD827287240A5c281E3bB30d27E) |
 
 **FURTHER RESOLVED:** That the Service Providers of this DAO are, and each acting alone is, hereby authorized to do and perform any and all acts, including execution of any and all documents and certificates, as said Service Provider(s) shall deem necessary or advisable to carry out the purposes of the resolutions herein.
 

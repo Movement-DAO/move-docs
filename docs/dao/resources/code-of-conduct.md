@@ -3,13 +3,13 @@ title: Code of Conduct
 sidebar_position: 2
 ---
 
-This is the Code of Conduct for DAO and its Community. Some terms used in this document have specific meanings, and are defined in the [Definitions](/dao/legal/definitions).
+This is the Code of Conduct for DAO and its Community. Some terms used in this document have specific meanings, and are defined in the [Definitions](https://gov.move.xyz/dao/legal/definitions).
 
 ---
 
 ## Community.
 
-Before being admitted as a DAO Member, each individual must accept the DAO's Code of Conduct, the DAO's Community Enforcement Guidelines, the DAO's [Guiding Principals](/dao/legal/guiding-principles), and the DAO's [Terms of Service](/dao/legal/tos).
+Before being admitted as a DAO Member, each individual must accept the DAO's Code of Conduct, the DAO's Community Enforcement Guidelines, the DAO's [Guiding Principals](https://gov.move.xyz/dao/legal/guiding-principles), and the DAO's [Terms of Service](https://gov.move.xyz/dao/legal/tos).
 
 In the event of a breach of the Code of Conduct, or a breach of any applicable terms and conditions, the DAO reserves the right to remove the associated DAO Member(s) without notice.
 
@@ -40,7 +40,7 @@ We are committed to Personal Integrity, Excellence, Teamwork, Inspiration to the
 - Publishing others’ private information (NCC and/or [PII](https://www.gsa.gov/reference/gsa-privacy-program/rules-and-policies-protecting-pii-privacy-act)) without their explicit consent.
 - Giving any type of financial advice.
 - Other conduct which could reasonably be considered inappropriate in a professional setting.
-- Unauthorized use of the DAO's Cryptographic keys to sign any transaction which has not been ratified by the DAO's [governance process](/dao/governance/process).
+- Unauthorized use of the DAO's Cryptographic keys to sign any transaction which has not been ratified by the DAO's [governance process](https://gov.move.xyz/dao/governance/process).
 
 ## Community Enforcement Guidelines.
 
@@ -72,24 +72,10 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 ### 5. Compulsory Withdrawal.
 
-**Transgression:** A violation of the DAO's Code of Conduct, the DAO's Community Impact and Enforcement Guidelines, or the [DAO's Guiding Principals § 6(d)](/dao/legal/guiding-principles#6-withdrawal-rights-compulsory-withdrawal-non-disparagement): _Withdrawal Rights; Compulsory Withdrawal; Non-Disparagement_ shall result in a permanent ban.
+**Transgression:** A violation of the DAO's Code of Conduct, the DAO's Community Impact and Enforcement Guidelines, or the [DAO's Guiding Principals § 6(d)](https://gov.move.xyz/dao/legal/guiding-principles#6-withdrawal-rights-compulsory-withdrawal-non-disparagement): _Withdrawal Rights; Compulsory Withdrawal; Non-Disparagement_ shall result in a permanent ban.
 
 **Consequence:** The DAO Member shall be removed from the Dapp and prevented from any and all privileges granted to Members. Referral to the DAO's Service Provider to initiate the Guiding Principal's Compulsory Withdrawal § 6(b) proceedings.
 
 ## Other.
 
 Notwithstanding the above Community standards and enforcement guidelines, the DAO and its Service Provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
-
----
-
-## Acknowledgement and Acceptance.
-
-The DAO signers and stewards each acknowledge and accept the above Code of Conduct and Community Impact and Enforcement Guidelines, as well as the DAO Privacy Policy and Terms and Conditions, and provide the following signed messages in attestation.
-
-| Ethereum Address                                                                                                        | Signed Message |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [`0x752515a3A1091b9f1c04416CF79D1F14d2340085`](https://etherscan.io/address/0x752515a3a1091b9f1c04416cf79d1f14d2340085) |                |
-| [`0x468f178672C86bFA02e5E1B0413C3ccf55A37409`](https://etherscan.io/address/0x468f178672C86bFA02e5E1B0413C3ccf55A37409) |                |
-| [`0x550bD0F03580B9a687931af4d837F8e45D61d410`](https://etherscan.io/address/0x550bD0F03580B9a687931af4d837F8e45D61d410) |                |
-| [`0x746cf650d4E5431474E8D4E2d5B6Bbe53772b498`](https://etherscan.io/address/0x746cf650d4E5431474E8D4E2d5B6Bbe53772b498) |                |
-| [`0xDbE76F6ae97dFD5bdd1D7DAD8972740d18aB2b57`](https://etherscan.io/address/0xDbE76F6ae97dFD5bdd1D7DAD8972740d18aB2b57) |                |
