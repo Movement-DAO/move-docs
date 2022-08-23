@@ -1,4 +1,4 @@
-# Adopt Service Provider and Authorized Member's Actions
+# Adopt Actions
 
 ```
 Author: tankbottoms.eth, filipv.eth

@@ -1,4 +1,4 @@
-# Developer Budget: Bootstrap Product Development
+# Bootstrap Product Development
 
 ```
 Authors: tankbottoms.eth, filipv.eth
