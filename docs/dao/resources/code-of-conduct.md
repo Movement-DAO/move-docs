@@ -74,11 +74,11 @@ DAO Members will follow the Community Impact and Enforcement Guidelines listed b
 
 **Transgression:** A violation of the DAO's Code of Conduct, the DAO's Community Impact and Enforcement Guidelines, or the [DAO's Guiding Principals § 6(d)](/dao/legal/guiding-principles#6-withdrawal-rights-compulsory-withdrawal-non-disparagement): _Withdrawal Rights; Compulsory Withdrawal; Non-Disparagement_ shall result in a permanent ban.
 
-**Consequence:** The DAO Member shall be removed from the Dapp and prevented from any and all privileges granted to Members. Referral to the DAO's service provider to initiate the Guiding Principal's Compulsory Withdrawal § 6(b) proceedings.
+**Consequence:** The DAO Member shall be removed from the Dapp and prevented from any and all privileges granted to Members. Referral to the DAO's Service Provider to initiate the Guiding Principal's Compulsory Withdrawal § 6(b) proceedings.
 
 ## Other.
 
-Notwithstanding the above Community standards and enforcement guidelines, the DAO and its service provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
+Notwithstanding the above Community standards and enforcement guidelines, the DAO and its Service Provider reserve the right to exclude any participant of the Dapp in case of breach of the Code of Conduct or any applicable terms and conditions.
 
 ---
 

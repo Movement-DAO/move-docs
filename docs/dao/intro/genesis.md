@@ -5,7 +5,7 @@ sidebar_position: 2
 
 ## Background
 
-In December of 2021, a number of individuals collectively expressed interest in creating an experiment through the DAO's service provider [dao-lawfirm.eth](../legal/guiding-principles.md).
+In December of 2021, a number of individuals collectively expressed interest in creating an experiment through the DAO's Service Provider [dao-lawfirm.eth](../legal/guiding-principles.md).
 
 The thesis:
 
