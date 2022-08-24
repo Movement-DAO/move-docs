@@ -12,7 +12,7 @@ The thesis:
 > - Could a new type of application framework, relying on smart contracts for organizational governance and accounting, operate in a completely decentralized way?
 > - Could decentralized applications and smart contracts facilitate greater change than traditional tools when addressing the needs of individuals and scaling to millions of communities?
 
-As of August 14, 2022, under 100 [unique externally owned addresses (EOA)](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16.5 into the [DAO Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)("Multi-signature wallet" or "Multi-sig").[^1] dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
+As of August 14, 2022, under 100 [unique externally owned addresses (EOA)](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6) and [Gnosis Safes](https://defiprime.com/gnosis-safe#:~:text=The%20Gnosis%20Safe%20is%20a,is%20a%20multi%2Dsignature%20wallet) seeded over $16.5m into the [DAO Gnosis Safe](https://etherscan.io/address/0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6)("Multi-signature wallet" or "Multi-sig").[^1] dao-lawfirm.eth, together with an appointed handful of individuals ("initial signers"), established the following guidelines:
 
 2. dao-lawfirm.eth will retain a veto right in order to protect governance during the "slow-start"[^2]; and,
 1. the DAO shall bootstrap a community of contributors and developers to develop DAO tooling to enable maintaining communities;
