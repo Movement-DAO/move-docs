@@ -34,11 +34,6 @@ const config = {
 					routeBasePath: '/',
 					editUrl: 'https://github.com/themovementdao/move-docs/blob/master/'
 				},
-				blog: {
-					showReadingTime: true,
-					routeBasePath: '/updates/',
-					editUrl: 'https://github.com/themovementdao/move-docs/blob/master/'
-				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css')
 				}
@@ -72,7 +67,6 @@ const config = {
 					sidebarId: 'peace',
 					label: 'Peace DAO'
 				},
-				{ to: '/updates', label: 'Updates', position: 'left' },
 				{
 					type: 'dropdown',
 					label: 'Resources',
