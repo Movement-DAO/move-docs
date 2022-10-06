@@ -58,6 +58,12 @@ const config = {
 				{
 					type: 'docSidebar',
 					position: 'left',
+					sidebarId: 'dev',
+					label: 'Docs'
+				},
+				{
+					type: 'docSidebar',
+					position: 'left',
 					sidebarId: 'dao',
 					label: 'Movement DAO'
 				},
