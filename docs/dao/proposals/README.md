@@ -26,6 +26,7 @@
 | MIP-0019: Proposal Regarding the Service Provider Fee Payout From 2022[^20]                                                                                                       | Feb 9, 2023  | 2,247,358.22   |    100%    |
 | MIP-0020: Proposal from Payout of Deferred Legal and Indemnification Expenses[^21]                                                                                                | Feb 9, 2023  | 2,444,369.13   |    100%    |
 | MIP-0021: Proposal for the DAO's 2023 Operational Budget[^22]     | Feb 9, 2023  | 2,444,369.13          |        99.99%    |
+| MIP-0022: Emergency Proposal to Consolidate Crypto Pursuant to Court Order [^23] | Mar 6, 2023 | | |
 
 [^1]: [MIP-0000: Adopt the Guiding Principles, Terms of Service, and Code of Conduct](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xf8c8fb501e4076f07c75ef428ac97d851cc4cbad23bc62a873d1d5e2eb014ae5)
 [^2]: [MIP-0001: Adopt the Governance and Multisig Processes](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xd7cf171e69403a707c0e7ff52a5aa43eac75a6ce19b2934585a45f45959dc96d)
