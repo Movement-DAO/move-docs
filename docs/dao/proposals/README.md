@@ -58,7 +58,7 @@
 [^21]: [MIP-0020: Proposal from Payout of Deferred Legal and Indemnification Expenses](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xeccd5d5bce65d0d25fbe3bd5fb384648abf95b40f96028829372dde84ce03420)
 [^22]: [MIP-0021: Proposal for the DAO's 2023 Operational Budget](https://snapshot.org/#/snapshot.movedao.eth/proposal/0x6bf761a3315d6dc84670549326ba36d62492153ee3557818a11d1890e13dfe22)
 [^23]: [MIP-0022: Emergency Proposal to Consolidate Crypto Pursuant to Court Order](https://snapshot.org/#/snapshot.movedao.eth/proposal/0x2561bd6630771e44b11e4ec4b0eb205d40d5eb4965f8a8fc8fd86446b5297291)
-[^24]: [MIP-0023: Proposal for a Limited Waiver of the Attorney-Client Privilege and Attorney Work Product Doctrine with the Law Firm of Reed Yurchak](tbd)
+[^24]: [MIP-0023: Proposal for a Limited Waiver of the Attorney-Client Privilege and Attorney Work Product Doctrine with the Law Firm of Reed Yurchak](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xb69daa6d12618ded582448a5b011094912aeab2bd79030a8e3beafd93a56179f)
 [^25]: [MIP-0024: Notice to Members of Updated Links](tbd)
 [^26]: [MIP-0025: Ratification of New Agreement for Multisig Signers](tbd)
 [^27]: [MIP-0026: Committee For Expense Claims and Operations Oversight](tbd)
