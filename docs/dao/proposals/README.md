@@ -28,6 +28,12 @@
 | MIP-0021: Proposal for the DAO's 2023 Operational Budget[^22]     | Feb 9, 2023  | 2,444,369.13          |        99.99%    |
 | MIP-0022: Emergency Proposal to Consolidate Crypto Pursuant to Court Order [^23] | Mar 6, 2023 | 1,951,371.38 | 100% |
 | MIP-0023: Proposal for a Limited Waiver of the Attorney-Client Privilege and Attorney Work Product Doctrine with the Law Firm of Reed Yurchak [^24] | Mar 14, 2023 | 1,951,608.55 | 100% |
+| MIP-0024: Notice to Members of Updated Links [^25] | tbd | tbd | tbd |
+| MIP-0025: Ratification of New Agreement for Multisig Signers [^26] | tbd | tbd | tbd |
+| MIP-0026: Committee For Expense Claims and Operations Oversight [^27] | tbd | tbd | tbd |
+| MIP-0027: Community Ratification of Movement DAO Lawsuit Against Individuals [^28] | tbd | tbd | tbd |
+| MIP-0028: Guiding Principles, Terms of Service, and Code of Conduct Update [^29] | tbd | tbd | tbd | 
+| MIP-0029: Reimburse Authorized Members Floating Expenses [^30] | tbd | tbd | tbd | 
 
 [^1]: [MIP-0000: Adopt the Guiding Principles, Terms of Service, and Code of Conduct](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xf8c8fb501e4076f07c75ef428ac97d851cc4cbad23bc62a873d1d5e2eb014ae5)
 [^2]: [MIP-0001: Adopt the Governance and Multisig Processes](https://snapshot.org/#/snapshot.movedao.eth/proposal/0xd7cf171e69403a707c0e7ff52a5aa43eac75a6ce19b2934585a45f45959dc96d)
@@ -53,3 +59,9 @@
 [^22]: [MIP-0021: Proposal for the DAO's 2023 Operational Budget](https://snapshot.org/#/snapshot.movedao.eth/proposal/0x6bf761a3315d6dc84670549326ba36d62492153ee3557818a11d1890e13dfe22)
 [^23]: [MIP-0022: Emergency Proposal to Consolidate Crypto Pursuant to Court Order](https://snapshot.org/#/snapshot.movedao.eth/proposal/0x2561bd6630771e44b11e4ec4b0eb205d40d5eb4965f8a8fc8fd86446b5297291)
 [^24]: [MIP-0023: Proposal for a Limited Waiver of the Attorney-Client Privilege and Attorney Work Product Doctrine with the Law Firm of Reed Yurchak](tbd)
+[^25]: [MIP-0024: Notice to Members of Updated Links](tbd)
+[^26]: [MIP-0025: Ratification of New Agreement for Multisig Signers](tbd)
+[^27]: [MIP-0026: Committee For Expense Claims and Operations Oversight](tbd)
+[^28]: [MIP-0027: Community Ratification of Movement DAO Lawsuit Against Individuals](tbd)
+[^29]: [MIP-0028: Guiding Principles, Terms of Service, and Code of Conduct Update](tbd)
+[^30]: [MIP-0029: Reimburse Authorized Members Floating Expenses](tbd)
